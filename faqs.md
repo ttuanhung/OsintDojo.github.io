@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    
-
-layout: template
-filename: faqs.md
 
     <title>OSINT Dojo</title>
     <meta charset="UTF-8">
