@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+---
+layout: template
+filename: faqs.md
+---
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
@@ -67,5 +70,4 @@ hr{
       </section>
 
   </body>
-</html>
 
