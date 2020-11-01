@@ -1,12 +1,11 @@
----
-title: OSINT Dojo
-layout: template
-filename: faqs.md
---- 
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    
+
+layout: template
+filename: faqs.md
+
     <title>OSINT Dojo</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
