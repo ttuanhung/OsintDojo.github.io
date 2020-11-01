@@ -1,3 +1,9 @@
+---
+title: OSINT Dojo
+layout: template
+filename: faqs.md
+--- 
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
