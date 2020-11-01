@@ -1,3 +1,9 @@
+---
+title: OSINT Dojo
+layout: template
+filename: index.md
+--- 
+
 <center> <h1> HOME </h1> </center>
 <hr>
 <p>
