@@ -1,4 +1,5 @@
-## Welcome to the OSINT Dojo!<hr>
+<center> ## Welcome to the OSINT Dojo! <center>
+  <hr>
 
 You can use the [editor on GitHub](https://github.com/OsintDojo/OsintDojo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
