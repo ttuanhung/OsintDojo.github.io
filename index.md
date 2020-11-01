@@ -1,4 +1,4 @@
-<center> <b>Welcome to the OSINT Dojo!</b> </center>
+<center> <h1> Welcome to the OSINT Dojo! </h1> </center>
 <hr>
 <p>
   Hello and welcome to the OSINT Dojo! The OSINT Dojo is a project that aims to guide those new to Open Source Intelligence (OSINT) through the first steps of their OSINT journey.
