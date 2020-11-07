@@ -3,6 +3,8 @@ layout: template
 filename: faqs.md
 permalink: /faqs/
 ---
+<center> <h1> FAQS </h1> </center>
+<hr>
 
 <h3>What is the OSINT Dojo?</h3>
 <p>The OSINT Dojo is a side project that attempts to gamify the OSINT learning process. We aim to provide a clear set of goals and objectives to achieve in order to guide new OSINT analysts through their OSINT journey.  These objectives are designed to teach common processes, collaboration, and encourage the growth of an analyst’s OSINT skillsets. We also provide digital badges to help track your progress and show off to your friends!</p>
