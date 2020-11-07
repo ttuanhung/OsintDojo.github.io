@@ -38,7 +38,7 @@ permalink: /resources/
 <a href="https://www.secjuice.com/tumblr-osint/">OSINT Investigations on Tumblr: Sinwindie</a><br>
 <a href="https://www.secjuice.com/investigate-gab-users-osint/">Gab OSINT Techniques: Sinwindie</a><br>
 
-<h3>OSINT Employment<h3>
+<h3>OSINT Employment</h3>
 <a href="https://www.secjuice.com/landing-your-first-job-in-osint/">Getting Your First job in OSINT: Sinwindie</a><br>
 
 <hr>
