@@ -1,6 +1,6 @@
 ---
 layout: template
-filename: faqs.md
+filename: resources.md
 permalink: /resources/
 ---
 
