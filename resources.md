@@ -3,6 +3,7 @@ layout: template
 filename: resources.md
 permalink: /resources/
 ---
+<center>
 <h1>OSINT Resources<h1>
 <h2>General OSINT Dojo Resources</h2>
 <h3>Article Publishing Platforms<h3>
@@ -12,3 +13,8 @@ permalink: /resources/
 <h3>Video Streaming Platforms<h3>
 <a href="https://www.twitch.tv/">Twitch</a><br>
 <a href="https://www.youtube.com"/>Youtube</a><br>
+
+
+
+
+</center>
