@@ -47,11 +47,16 @@ permalink: /resources/
 <a href="https://www.secjuice.com/investigate-gab-users-osint/">Gab OSINT Techniques</a><br>
 
 <h3>OSINT Employment</h3>
-<a href="https://www.secjuice.com/landing-your-first-job-in-osint/">Getting Your First job in OSINT: Sinwindie</a><br>
+<a href="https://www.secjuice.com/landing-your-first-job-in-osint/">Getting Your First job in OSINT</a><br>
+<a href="https://osintcurio.us/2020/04/01/how-to-land-an-osint-job/">How to land an OSINT job</a><br>
 
 <hr>
-<center><h2>OSINT Videos</h2></center>
+<center><h2>OSINT Videos or Podcasts</h2></center>
 <hr>
+<h3>General / Series</h3>
+<a href="https://inteltechniques.com/podcast.html">IntelTechniques Podcast</a><br>
+<a href="https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA">The OSINT Curious Project Youtube</a><br>
+
 <h3>CONINT 2020</h3>
 <a href="https://www.youtube.com/watch?v=U6fdUoEyPms">Strategic Perspectives and (Mostly) True War Stories</a><br>
 <a href="https://www.youtube.com/watch?v=Kl5Ivl0dQZo">OSINT: The entry drug your mother never told you about</a><br>
@@ -67,8 +72,16 @@ permalink: /resources/
 <a href="https://www.youtube.com/watch?v=MKzaNWs79rA">Venemy: An Intelligence Tool for Venmo (2020 Edition)</a><br>
 
 <hr>
-<center><h2>OSINT Tools</h2></center>
+<center><h2>OSINT Tools and Other Resources</h2></center>
 <hr>
+<h3>OSINT Tools</h3>
+<a href="https://osintframework.com/">OSINT Framework</a><br>
+<a href="https://whatsmyname.app/">WhatsMyName</a><br>
+<a href="https://www.osinttechniques.com/osint-tools.html">OSINT Techniques: OSINT Tools</a><br>
 <a href="https://www.secjuice.com/osint-bookmarklet-tools/">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
 <a href="https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii/">Make Your Own Custom OSINT Bookmarklets (p2)</a><br>
 <a href="https://www.secjuice.com/osint-username-search-tool/">Build An OSINT Username Search Tool Using SULTAN</a><br>
+
+<h3>Other Resources</h3>
+<a href="https://osintcurio.us/">OSINTCurio.us</a><br>
+<a href="https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list">Nixintel's OSINT Resource List</a><br>
