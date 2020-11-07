@@ -12,7 +12,7 @@ permalink: /resources/
 
 <h3>Video Streaming Platforms<h3>
 <a href="https://www.twitch.tv/">Twitch</a><br>
-<a href="https://www.youtube.com"/>Youtube</a><br>
+<a href="https://www.youtube.com">Youtube</a><br>
 
 
 
