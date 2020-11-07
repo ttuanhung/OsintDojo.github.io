@@ -21,9 +21,9 @@ permalink: /resources/
 <hr>
 
 <h3>General Methodology</h3>
-<a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/">The OSINT Intelligence Cycle Part 1: Planning and Direction: Sinwindie</a><br>
-<a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/">OSINT & The Intelligence Cycle Part II: Lets Talk About Collection: Sinwindie</a><br>
-<a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/">OSINT & The Intelligence Cycle Part III: Processing Raw Intelligence: Sinwindie</a><br>
+<a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/">The OSINT Intelligence Cycle Part I: Sinwindie</a><br>
+<a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/">OSINT & The Intelligence Cycle Part II: Sinwindie</a><br>
+<a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/">OSINT & The Intelligence Cycle Part III: Sinwindie</a><br>
 <a href="https://www.secjuice.com/account-recovery-osint/">Account Knocking For Fun and OSINT: Sinwindie</a><br>
 <a href="https://www.secjuice.com/the-7-deadly-sins-of-osint/">The 7 Deadly Sins of OSINT: Sinwindie</a><br>
 <a href="https://www.secjuice.com/street-art-in-osint-investigations/">Leveraging Street Art in OSINT Investigations: Sinwindie</a><br>
