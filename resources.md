@@ -51,7 +51,7 @@ permalink: /resources/
 <a href="https://www.youtube.com/watch?v=jojJdjF5zD8">Murders, Scams, and Cold Cases: The Use of OSINT to Investigate Crime</a><br>
 <a href="https://www.youtube.com/watch?v=IqZZU9lFlF4">OSINT and Dark Web Markets, Why OPSEC Still Matters</a><br>
 <a href="https://www.youtube.com/watch?v=yvg9tLPKnUE">Open-Source Intelligence to Enable Real-Time Crisis Management</a><br>
-<a href="https://www.youtube.com/watch?v=qqba_49bi2w">Offensive OSINT: How to effectively used OSINT for offensive engagements</a><br>
+<a href="https://www.youtube.com/watch?v=qqba_49bi2w">How to effectively used OSINT for offensive engagements</a><br>
 <a href="https://www.youtube.com/watch?v=_G19KD5CrEU">Phishy Little Liars - Pretexts That Kill</a><br>
 <a href="https://www.youtube.com/watch?v=WLWvaST7Grw">Advancing OSINT with Social Engineering</a><br>
 <a href="https://www.youtube.com/watch?v=9-IHQEryuZ0">Turning Information into Intelligence</a><br>
