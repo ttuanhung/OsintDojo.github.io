@@ -16,4 +16,18 @@ permalink: /resources/
 <a href="https://www.twitch.tv/">Twitch</a><br>
 <a href="https://www.youtube.com">Youtube</a><br>
 
+<hr>
+<center><h2>OSINT Articles</h2></center>
+<hr>
 
+<h3>General Methodology</h3>
+
+<h3>Platform Specific</h3>
+
+<hr>
+<center><h2>OSINT Videos</h2></center>
+<hr>
+
+<hr>
+<center><h2>OSINT Tools</h2></center>
+<hr>
