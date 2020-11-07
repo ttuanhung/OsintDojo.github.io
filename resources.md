@@ -44,6 +44,19 @@ permalink: /resources/
 <hr>
 <center><h2>OSINT Videos</h2></center>
 <hr>
+<h3>CONINT 2020</h3>
+<a href="https://www.youtube.com/watch?v=U6fdUoEyPms">Bryan Hurd - Strategic Perspectives and (Mostly) True War Stories</a><br>
+<a href="https://www.youtube.com/watch?v=Kl5Ivl0dQZo">Charles Wroth - OSINT: The entry drug your mother never told you about</a><br>
+<a href="https://www.youtube.com/watch?v=fkTvxlOgwoc">Benjamin Strick - Location Finding and Visual Forensics - A Case Study Presentation</a><br>
+<a href="https://www.youtube.com/watch?v=jojJdjF5zD8">Rae Baker - Murders, Scams, and Cold Cases: The Use of OSINT to Investigate Crime</a><br>
+<a href="https://www.youtube.com/watch?v=IqZZU9lFlF4">Sinwindie - OSINT and Dark Web Markets, Why OPSEC Still Matters</a><br>
+<a href="https://www.youtube.com/watch?v=yvg9tLPKnUE">Paul Raffile - Open-Source Intelligence to Enable Real-Time Crisis Management</a><br>
+<a href="https://www.youtube.com/watch?v=qqba_49bi2w">Charles Shirer - Offensive OSINT: How to effectively used OSINT for offensive engagements</a><br>
+<a href="https://www.youtube.com/watch?v=_G19KD5CrEU">Alethe Denis - Phishy Little Liars - Pretexts That Kill</a><br>
+<a href="https://www.youtube.com/watch?v=WLWvaST7Grw">Mishaal Khan - Advancing OSINT with Social Engineering</a><br>
+<a href="https://www.youtube.com/watch?v=9-IHQEryuZ0">Chris Poulter - Turning Information into Intelligence</a><br>
+<a href="https://www.youtube.com/watch?v=EePeB9A2ZAk">Joe Gray - Workshop: 2 Hour People OSINT Walkthrough</a><br>
+<a href="https://www.youtube.com/watch?v=MKzaNWs79rA">Michael Portera - Venemy: An Intelligence Tool for Venmo (2020 Edition)</a><br>
 
 <hr>
 <center><h2>OSINT Tools</h2></center>
