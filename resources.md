@@ -5,7 +5,10 @@ permalink: /resources/
 ---
 <center>
 <h1>OSINT Resources<h1>
+<hr>
 <h2>General OSINT Dojo Resources</h2>
+<hr>
+</center>
 <h3>Article Publishing Platforms<h3>
 <a href="https://www.secjuice.com/join-secjuice-writing-team/">Secjuice</a> <br>
 <a href="https://about.medium.com/creators/">Medium</a><br>
@@ -15,6 +18,3 @@ permalink: /resources/
 <a href="https://www.youtube.com">Youtube</a><br>
 
 
-
-
-</center>
