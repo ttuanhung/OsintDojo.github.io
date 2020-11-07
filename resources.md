@@ -18,7 +18,7 @@ permalink: /resources/
 
 <h3>OSINT Challenges</h3>
 <a href="https://twitter.com/quiztime">Quiztime Crew</a><br>
-<a href="hhttps://twitter.com/Sector035/status/1211038518635614208">Sector035's OSINT Quiz</a><br>
+<a href="https://twitter.com/Sector035/status/1211038518635614208">Sector035's OSINT Quiz</a><br>
 
 
 <h3>OSINT CTFs</h3>
