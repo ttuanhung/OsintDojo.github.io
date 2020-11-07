@@ -61,7 +61,7 @@ permalink: /resources/
 <a href="https://www.youtube.com/watch?v=U6fdUoEyPms">Strategic Perspectives and (Mostly) True War Stories</a><br>
 <a href="https://www.youtube.com/watch?v=Kl5Ivl0dQZo">OSINT: The entry drug your mother never told you about</a><br>
 <a href="https://www.youtube.com/watch?v=fkTvxlOgwoc">Location Finding and Visual Forensics - A Case Study Presentation</a><br>
-<a href="https://www.youtube.com/watch?v=jojJdjF5zD8">Murders, Scams, and Cold Cases: The Use of OSINT to Investigate Crime</a><br>
+<a href="https://www.youtube.com/watch?v=jojJdjF5zD8">The Use of OSINT to Investigate Crime</a><br>
 <a href="https://www.youtube.com/watch?v=IqZZU9lFlF4">OSINT and Dark Web Markets, Why OPSEC Still Matters</a><br>
 <a href="https://www.youtube.com/watch?v=yvg9tLPKnUE">Open-Source Intelligence to Enable Real-Time Crisis Management</a><br>
 <a href="https://www.youtube.com/watch?v=qqba_49bi2w">How to effectively used OSINT for offensive engagements</a><br>
