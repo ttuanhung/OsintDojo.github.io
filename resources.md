@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 <center><h1>OSINT Resources</h1></center>
 <hr>
-<h2>General OSINT Dojo Resources</h2>
+<center><h2>General OSINT Dojo Resources</h2></center>
 <hr>
 
 <h3>Article Publishing Platforms</h3>
