@@ -1,6 +1,7 @@
 ---
 layout: template
 filename: faqs.md
+permalink: /faqs/
 ---
 
 <h3>What is the OSINT Dojo?</h3>
