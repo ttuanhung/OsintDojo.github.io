@@ -50,10 +50,3 @@ permalink: /resources/
 <a href="https://www.secjuice.com/landing-your-first-job-in-osint/">Getting Your First job in OSINT</a><br>
 <a href="https://osintcurio.us/2020/04/01/how-to-land-an-osint-job/">How to land an OSINT job</a><br>
 
-<hr>
-<center><h2>OSINT Videos or Podcasts</h2></center>
-<hr>
-<h3>General / Series</h3>
-<a href="https://inteltechniques.com/podcast.html">IntelTechniques Podcast</a><br>
-<a href="https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA">The OSINT Curious Project Youtube</a><br>
-
