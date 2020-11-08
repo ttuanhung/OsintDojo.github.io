@@ -60,7 +60,7 @@ function hoversamurairank()
 
 function unhoversamurairank() 
 {
-   if (count=!3) 
+   if (count!=3) 
    {
     document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
    } 
@@ -73,7 +73,7 @@ function hoverdaimyorank()
 
 function unhoverdaimyorank() 
 {
-   if (count=!4) 
+   if (count!=4) 
    {
     document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
    } 
