@@ -79,14 +79,14 @@ function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>Student is the first rank on your journey to becoming a better OSINT practitioner. Users in this level should be somewhat familiar with OSINT terms and methodology, if not, they are highly recommended to do research either on their own or via the Resources link to the left. At this level, users are being introduced to the different categories of challenges that are designed to strengthen their OSINT skills, particularly writing, verbal communication, and investigation. There is no minimum amount of time required before obtaining this rank.<br>
 
-In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may use any previously completed work to meet the requirements of challenges for this rank. Be sure to send the email from the email you would like the Badgr badge to be issued to.<br>
+In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may use any previously completed work to meet the requirements of challenges for this rank. Be sure to send the email from the email you would like the Badgr badge to be issued to.<br> <br>
 
 <h3>Rank Requirements</h3>
-**1:** Participate in an OSINT CTF<br>
-**2:** Attempt 2 OSINT challenges or quizzes of any kind<br>
-**3:** Create and share a 2-minute video showcasing the steps you tool to solve a previous OSINT challenge<br>
-**4:** Write and publish an article of at least 250 words showcasing steps you took to solve a previous OSINT challenge<br>
-**5:** Introduce yourself to the OSINT community and let others know you are ready to learn by including the hashtag #OSINTDOJO`
+<bold>1:</bold> Participate in an OSINT CTF<br>
+<bold>2:</bold> Attempt 2 OSINT challenges or quizzes of any kind<br>
+<bold>3:</bold> Create and share a 2-minute video showcasing the steps you tool to solve a previous OSINT challenge<br>
+<bold>4:</bold> Write and publish an article of at least 250 words showcasing steps you took to solve a previous OSINT challenge<br>
+<bold>5:</bold> Introduce yourself to the OSINT community and let others know you are ready to learn by including the hashtag #OSINTDOJO`
 
   document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
