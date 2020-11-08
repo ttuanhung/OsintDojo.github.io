@@ -50,40 +50,5 @@ permalink: /resources/
 <a href="https://www.secjuice.com/landing-your-first-job-in-osint/">Getting Your First job in OSINT</a><br>
 <a href="https://osintcurio.us/2020/04/01/how-to-land-an-osint-job/">How to land an OSINT job</a><br>
 
-<hr>
-<center><h2>OSINT Videos or Podcasts</h2></center>
-<hr>
-<h3>General / Series</h3>
-<a href="https://inteltechniques.com/podcast.html">IntelTechniques Podcast</a><br>
-<a href="https://www.youtube.com/channel/UCjzceWf-OT3ImIKztzGkipA">The OSINT Curious Project Youtube</a><br>
-
-<h3>CONINT 2020</h3>
-<a href="https://www.youtube.com/watch?v=U6fdUoEyPms">Strategic Perspectives and (Mostly) True War Stories</a><br>
-<a href="https://www.youtube.com/watch?v=Kl5Ivl0dQZo">OSINT: The entry drug your mother never told you about</a><br>
-<a href="https://www.youtube.com/watch?v=fkTvxlOgwoc">Location Finding and Visual Forensics - A Case Study Presentation</a><br>
-<a href="https://www.youtube.com/watch?v=jojJdjF5zD8">The Use of OSINT to Investigate Crime</a><br>
-<a href="https://www.youtube.com/watch?v=IqZZU9lFlF4">OSINT and Dark Web Markets, Why OPSEC Still Matters</a><br>
-<a href="https://www.youtube.com/watch?v=yvg9tLPKnUE">Open-Source Intelligence to Enable Real-Time Crisis Management</a><br>
-<a href="https://www.youtube.com/watch?v=qqba_49bi2w">How to effectively used OSINT for offensive engagements</a><br>
-<a href="https://www.youtube.com/watch?v=_G19KD5CrEU">Phishy Little Liars - Pretexts That Kill</a><br>
-<a href="https://www.youtube.com/watch?v=WLWvaST7Grw">Advancing OSINT with Social Engineering</a><br>
-<a href="https://www.youtube.com/watch?v=9-IHQEryuZ0">Turning Information into Intelligence</a><br>
-<a href="https://www.youtube.com/watch?v=EePeB9A2ZAk">Workshop: 2 Hour People OSINT Walkthrough</a><br>
-<a href="https://www.youtube.com/watch?v=MKzaNWs79rA">Venemy: An Intelligence Tool for Venmo (2020 Edition)</a><br>
-
-<hr>
-<center><h2>OSINT Tools and Other Resources</h2></center>
-<hr>
-<h3>OSINT Tools</h3>
-<a href="https://osintframework.com/">OSINT Framework</a><br>
-<a href="https://whatsmyname.app/">WhatsMyName</a><br>
-<a href="https://www.osinttechniques.com/osint-tools.html">OSINT Techniques: OSINT Tools</a><br>
-<a href="https://www.secjuice.com/osint-bookmarklet-tools/">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
-<a href="https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii/">Make Your Own Custom OSINT Bookmarklets (p2)</a><br>
-<a href="https://www.secjuice.com/osint-username-search-tool/">Build An OSINT Username Search Tool Using SULTAN</a><br>
-
-<h3>Other Resources</h3>
-<a href="https://osintcurio.us/">OSINTCurio.us</a><br>
-<a href="https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list">Nixintel's OSINT Resource List</a><br>
 
 
