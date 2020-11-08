@@ -53,7 +53,15 @@ function hoverroninrank()
 
 function unhoverroninrank() 
 {
+   if (count=2) 
+   {
+    document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
+   } 
+   
+   else 
+   {
     document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
+   } 
 }
 
 function hoversamurairank() 
@@ -63,7 +71,15 @@ function hoversamurairank()
 
 function unhoversamurairank() 
 {
+   if (count=3) 
+   {
+    document.getElementById("samurairank").src = "/OSINTSamuraiLogo.svg";
+   } 
+   
+   else 
+   {
     document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
+   } 
 }
 
 function hoverdaimyorank() 
@@ -73,7 +89,15 @@ function hoverdaimyorank()
 
 function unhoverdaimyorank() 
 {
+   if (count=4) 
+   {
+    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
+   } 
+   
+   else 
+   {
     document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
+   } 
 }
 
 function hovershogunrank() 
@@ -83,7 +107,15 @@ function hovershogunrank()
 
 function unhovershogunrank() 
 {
+   if (count=5) 
+   {
+    document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
+   } 
+   
+   else 
+   {
     document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
+   } 
 }
 
 function clickstudent()
@@ -110,6 +142,9 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  
  function clickronin()
  {
+ 
+   count = 2;
+   
   document.getElementById("chosenrank").innerHTML =`RONIN TEXT`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
@@ -120,6 +155,9 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  
  function clicksamurai()
  {
+ 
+  count = 3;
+  
   document.getElementById("chosenrank").innerHTML =`SAMURAI TEXT`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
@@ -130,6 +168,9 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  
  function clickdaimyo()
  {
+ 
+  count = 4;
+  
   document.getElementById("chosenrank").innerHTML =`DAIMYO TEXT`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
@@ -140,6 +181,9 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  
  function clickshogun()
  {
+ 
+  count = 5;
+  
   document.getElementById("chosenrank").innerHTML =`SHOGUN TEXT`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
