@@ -36,12 +36,12 @@ function unhoverstudentrank()
 {
    if (count=1) 
    {
-    document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
+    document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
    } 
    
    else 
    {
-    document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
+    document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
    } 
 
 }
