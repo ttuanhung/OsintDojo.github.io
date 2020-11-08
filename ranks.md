@@ -25,7 +25,7 @@ Click on a rank below to view the description and associated requirements.
 
 <script>
  
- count = 0;
+ var count = 0;
  
 function hoverstudentrank() 
 {
