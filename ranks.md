@@ -8,11 +8,11 @@ permalink: /ranks/
 
 <center>
 Click on a rank below to view the description and associated requirements.
-<img id="studentrank" onclick="clickstudent();" src="/OSINTStudentLogo.svg" width="90" height="90" alt="Student"/> 
-<img id="roninrank" onclick="clickronin();"   src="/OSINTRONINLogo.svg" width="90" height="90" alt="Ronin"/>
-<img id="samurairank" onclick="clicksamurai();" src="/OSINTSamuraiLogo.svg" width="90" height="90" alt="Samurai"/>
+<img id="studentrank" onclick="clickstudent();" src="/OSINTStudentLogo2.svg" width="90" height="90" alt="Student"/> 
+<img id="roninrank" onclick="clickronin();"   src="/OSINTRONINLogo2.svg" width="90" height="90" alt="Ronin"/>
+<img id="samurairank" onclick="clicksamurai();" src="/OSINTSamuraiLogo2.svg" width="90" height="90" alt="Samurai"/>
 <img id="daimyorank" onclick="clickdaimyo();" src="/OSINTDaimyoLogo2.svg" width="90" height="90" alt="Daimyo"/>
-<img id="shogunrank" onclick="clickshogun();" src="/OSINTShogunLogo.svg" width="90" height="90" alt="Shogun"/>
+<img id="shogunrank" onclick="clickshogun();" src="/OSINTShogunLogo2.svg" width="90" height="90" alt="Shogun"/>
 </center>
 
 <div id="chosenrank"> </div>
@@ -22,27 +22,51 @@ Click on a rank below to view the description and associated requirements.
 function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`STUDENT`
+  document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
+  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
+  document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";  
  }
  
  function clickronin()
  {
   document.getElementById("chosenrank").innerHTML =`RONIN`
+  document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
+  document.getElementById("roninorank").src = "/OSINTRONINLogo.svg";
+  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
+  document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
  }
  
  function clicksamurai()
  {
   document.getElementById("chosenrank").innerHTML =`SAMURAI`
+  document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
+  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo.svg";
+  document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
+  document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
  }
  
  function clickdaimyo()
  {
   document.getElementById("chosenrank").innerHTML =`DAIMYO`
+  document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
+  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
   document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
+  document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
  }
  
  function clickshogun()
  {
   document.getElementById("chosenrank").innerHTML =`SHOGUN`
+  document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
+  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
+  document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
  }
             
 </script>
