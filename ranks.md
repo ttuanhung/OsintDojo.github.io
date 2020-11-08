@@ -20,7 +20,7 @@ permalink: /ranks/
 <script>
  function clickstudent()
  {
-  document.getElementById("clickstudent").innerHTML =`STUDENT`
+  document.getElementById("chosenrank").innerHTML =`STUDENT`
  }
  
             
