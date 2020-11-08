@@ -7,6 +7,7 @@ permalink: /resources/
 <hr>
 
 <center><h2>General OSINT Dojo Resources</h2></center>
+<hr>
 
 <h3>Article Publishing Platforms</h3>
 <a href="https://www.secjuice.com/join-secjuice-writing-team/">Secjuice</a> <br>
@@ -23,7 +24,9 @@ permalink: /resources/
 <h3>OSINT CTFs</h3>
 <a href="https://www.tracelabs.org/initiatives/search-party">TraceLabs</a><br>
 
+<hr>
 <center><h2>OSINT Articles</h2></center>
+<hr>
 
 <h3>General Methodology</h3>
 <a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/">The OSINT Intelligence Cycle Part I</a><br>
@@ -67,8 +70,9 @@ permalink: /resources/
 <a href="https://www.youtube.com/watch?v=EePeB9A2ZAk">Workshop: 2 Hour People OSINT Walkthrough</a><br>
 <a href="https://www.youtube.com/watch?v=MKzaNWs79rA">Venemy: An Intelligence Tool for Venmo (2020 Edition)</a><br>
 
-
+<hr>
 <center><h2>OSINT Tools and Other Resources</h2></center>
+<hr>
 
 <h3>OSINT Tools</h3>
 <a href="https://osintframework.com/">OSINT Framework</a><br>
