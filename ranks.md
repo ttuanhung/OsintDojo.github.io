@@ -38,12 +38,6 @@ function unhoverstudentrank()
    {
     document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
    } 
-   
-   else 
-   {
-    document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
-   } 
-
 }
 
 function hoverroninrank() 
@@ -56,11 +50,6 @@ function unhoverroninrank()
    if (count=2) 
    {
     document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
-   } 
-   
-   else 
-   {
-    document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
    } 
 }
 
@@ -75,11 +64,6 @@ function unhoversamurairank()
    {
     document.getElementById("samurairank").src = "/OSINTSamuraiLogo.svg";
    } 
-   
-   else 
-   {
-    document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
-   } 
 }
 
 function hoverdaimyorank() 
@@ -93,11 +77,6 @@ function unhoverdaimyorank()
    {
     document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
    } 
-   
-   else 
-   {
-    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
-   } 
 }
 
 function hovershogunrank() 
@@ -110,11 +89,6 @@ function unhovershogunrank()
    if (count=5) 
    {
     document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
-   } 
-   
-   else 
-   {
-    document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
    } 
 }
 
