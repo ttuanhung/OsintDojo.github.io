@@ -36,19 +36,3 @@ permalink: /resources/
 <a href="https://www.secjuice.com/the-7-deadly-sins-of-osint/">The 7 Deadly Sins of OSINT</a><br>
 <a href="https://www.secjuice.com/street-art-in-osint-investigations/">Leveraging Street Art in OSINT Investigations</a><br>
 
-<h3>Platform Specific</h3>
-<a href="https://www.secjuice.com/osint-investigations-on-tiktok/">OSINT Investigations on TikTok</a><br>
-<a href="https://www.secjuice.com/reddit-osint-techniques/">Reddit OSINT Techniques</a><br>
-<a href="https://www.secjuice.com/linkedin-osint-part-1/">LinkedIn OSINT Techniques: Part I</a><br>
-<a href="https://www.secjuice.com/linkedin-osint-techniques-part-ii/">LinkedIn OSINT Techniques (II)</a><br>
-<a href="https://www.secjuice.com/pokemon-go-osint-techniques/">Pokémon GO OSINT Techniques: Part I</a><br>
-<a href="https://www.secjuice.com/part-2-pokemon-osint-techniques/">Pokémon GO OSINT Techniques: Part II</a><br>
-<a href="https://www.secjuice.com/tumblr-osint/">OSINT Investigations on Tumblr</a><br>
-<a href="https://www.secjuice.com/investigate-gab-users-osint/">Gab OSINT Techniques</a><br>
-
-<h3>OSINT Employment</h3>
-<a href="https://www.secjuice.com/landing-your-first-job-in-osint/">Getting Your First job in OSINT</a><br>
-<a href="https://osintcurio.us/2020/04/01/how-to-land-an-osint-job/">How to land an OSINT job</a><br>
-
-
-
