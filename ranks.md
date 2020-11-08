@@ -47,9 +47,9 @@ function hoverroninrank()
 
 function unhoverroninrank() 
 {
-   if (count=2) 
+   if (count!=2) 
    {
-    document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
+    document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
    } 
 }
 
@@ -60,9 +60,9 @@ function hoversamurairank()
 
 function unhoversamurairank() 
 {
-   if (count=3) 
+   if (count=!3) 
    {
-    document.getElementById("samurairank").src = "/OSINTSamuraiLogo.svg";
+    document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
    } 
 }
 
@@ -73,9 +73,9 @@ function hoverdaimyorank()
 
 function unhoverdaimyorank() 
 {
-   if (count=4) 
+   if (count=!4) 
    {
-    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
+    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
    } 
 }
 
@@ -86,9 +86,9 @@ function hovershogunrank()
 
 function unhovershogunrank() 
 {
-   if (count=5) 
+   if (count!=5) 
    {
-    document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
+    document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
    } 
 }
 
