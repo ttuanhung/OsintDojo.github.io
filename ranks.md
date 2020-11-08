@@ -23,8 +23,8 @@ function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`STUDENT`
   document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
-  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
-  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
   document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
   document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";  
  }
@@ -33,8 +33,8 @@ function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`RONIN`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
-  document.getElementById("roninorank").src = "/OSINTRONINLogo.svg";
-  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
+  document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
   document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
   document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
  }
@@ -43,8 +43,8 @@ function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`SAMURAI`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
-  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
-  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo.svg";
+  document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samurairank").src = "/OSINTSamuraiLogo.svg";
   document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
   document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
  }
@@ -53,8 +53,8 @@ function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`DAIMYO`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
-  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
-  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
   document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
   document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
  }
@@ -63,8 +63,8 @@ function clickstudent()
  {
   document.getElementById("chosenrank").innerHTML =`SHOGUN`
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
-  document.getElementById("roninorank").src = "/OSINTRONINLogo2.svg";
-  document.getElementById("samuraiorank").src = "/OSINTSamuraiLogo2.svg";
+  document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
+  document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
   document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
   document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
  }
