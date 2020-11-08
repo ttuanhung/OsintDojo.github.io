@@ -118,8 +118,17 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  {
  
    count = 2;
-   
-  document.getElementById("chosenrank").innerHTML =`RONIN TEXT`
+   document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>Ronin is the second level within the OSINT Dojo. Users in this level will see their challenges increase slighty and they will be expected to preform at a slightly higher level than they did in the Student level. Challenges in this level shift from simply trying different challenges, to preforming them successfully. Users must spend a minimum of 1 month in the Student level before applying for the Ronin rank.<br><br>
+
+In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Student level to meet the requirements of challenges for this rank. Be sure to send the email from the email you would like the Badgr badge to be issued to.<br> <br>
+
+<h3>Rank Requirements</h3>
+<b>1:</b> Rank in the top 75% of competitors or teams in an OSINT CTF<br>
+<b>2:</b> Attempt 1 non-Geolocation-Based OSINT Challenge<br>
+<b>3:</b> Create a 4-minute video showcasing any OSINT topic<br>
+<b>4:</b> Write and publish an article of at least 250 words showcasing steps you took to solve a previous OSINT challenge<br>
+<b>5:</b> Find a new or recent OSINT article, technique, code repository, etc and share it with the OSINT Dojo community so we can add it to our resources list`
+
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
   document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
