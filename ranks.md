@@ -8,11 +8,11 @@ permalink: /ranks/
 
 <center>
 Click on a rank below to view the description and associated requirements.
-<img id="studentrank">  onclick="clickstudent();" src="/OSINTStudentLogo.svg" width="90" height="90" alt="Student"/> 
-<img id="roninrank">  onclick="clickronin();"   src="/OSINTRONINLogo.svg" width="90" height="90" alt="Ronin"/>
-<img id="samurairank">  onclick="clicksamurai();" src="/OSINTSamuraiLogo.svg" width="90" height="90" alt="Samurai"/>
-<img id="daimyorank">  onclick="clickdaimyo();" src="/OSINTDaimyoLogo2.svg" width="90" height="90" alt="Daimyo"/>
-<img id="shogunrank">  onclick="clickshogun();" src="/OSINTShogunLogo.svg" width="90" height="90" alt="Shogun"/>
+<img id="studentrank" onclick="clickstudent();" src="/OSINTStudentLogo.svg" width="90" height="90" alt="Student"/> 
+<img id="roninrank" onclick="clickronin();"   src="/OSINTRONINLogo.svg" width="90" height="90" alt="Ronin"/>
+<img id="samurairank" onclick="clicksamurai();" src="/OSINTSamuraiLogo.svg" width="90" height="90" alt="Samurai"/>
+<img id="daimyorank" onclick="clickdaimyo();" src="/OSINTDaimyoLogo2.svg" width="90" height="90" alt="Daimyo"/>
+<img id="shogunrank" onclick="clickshogun();" src="/OSINTShogunLogo.svg" width="90" height="90" alt="Shogun"/>
 </center>
 
 <div id="chosenrank"> </div>
