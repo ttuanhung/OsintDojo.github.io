@@ -8,16 +8,25 @@ permalink: /ranks/
 
 <center>
 Click on a rank below to view the description and associated requirements.
-<img id="studentrank" onclick="clickstudent();" src="/OSINTStudentLogo2.svg" width="90" height="90" alt="Student"/> 
+<img id="studentrank" onclick="clickstudent();" src="/OSINTStudentLogo2.svg" width="90" height="90" onmouseover="hover(this);" onmouseout="unhover(this);"  alt="Student"/> 
 <img id="roninrank" onclick="clickronin();"   src="/OSINTRONINLogo2.svg" width="90" height="90" alt="Ronin"/>
 <img id="samurairank" onclick="clicksamurai();" src="/OSINTSamuraiLogo2.svg" width="90" height="90" alt="Samurai"/>
 <img id="daimyorank" onclick="clickdaimyo();" src="/OSINTDaimyoLogo2.svg" width="90" height="90" alt="Daimyo"/>
 <img id="shogunrank" onclick="clickshogun();" src="/OSINTShogunLogo2.svg" width="90" height="90" alt="Shogun"/>
 </center>
+<hr>
 
 <div id="chosenrank"> </div>
 
 <script>
+ 
+function hover(studentrank) {
+element.setAttribute('src', '/OSINTStudentLogo.svg');
+}
+
+function unhover(studentrank) {
+  element.setAttribute('src', '/OSINTStudentLogo2.svg');
+}
  
 function clickstudent()
  {
