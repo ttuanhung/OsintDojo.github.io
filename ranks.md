@@ -55,12 +55,12 @@ function unhoverroninrank()
 {
    if (count=2) 
    {
-    document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
+    document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
    } 
    
    else 
    {
-    document.getElementById("roninrank").src = "/OSINTRONINLogo.svg";
+    document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
    } 
 }
 
@@ -73,12 +73,12 @@ function unhoversamurairank()
 {
    if (count=3) 
    {
-    document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
+    document.getElementById("samurairank").src = "/OSINTSamuraiLogo.svg";
    } 
    
    else 
    {
-    document.getElementById("samurairank").src = "/OSINTSamuraiLogo.svg";
+    document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
    } 
 }
 
@@ -91,12 +91,12 @@ function unhoverdaimyorank()
 {
    if (count=4) 
    {
-    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
+    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
    } 
    
    else 
    {
-    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo.svg";
+    document.getElementById("daimyorank").src = "/OSINTDaimyoLogo2.svg";
    } 
 }
 
@@ -109,12 +109,12 @@ function unhovershogunrank()
 {
    if (count=5) 
    {
-    document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
+    document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
    } 
    
    else 
    {
-    document.getElementById("shogunrank").src = "/OSINTShogunLogo.svg";
+    document.getElementById("shogunrank").src = "/OSINTShogunLogo2.svg";
    } 
 }
 
