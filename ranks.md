@@ -82,11 +82,11 @@ function clickstudent()
 In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may use any previously completed work to meet the requirements of challenges for this rank. Be sure to send the email from the email you would like the Badgr badge to be issued to.<br> <br>
 
 <h3>Rank Requirements</h3>
-<bold>1:</bold> Participate in an OSINT CTF<br>
-<bold>2:</bold> Attempt 2 OSINT challenges or quizzes of any kind<br>
-<bold>3:</bold> Create and share a 2-minute video showcasing the steps you tool to solve a previous OSINT challenge<br>
-<bold>4:</bold> Write and publish an article of at least 250 words showcasing steps you took to solve a previous OSINT challenge<br>
-<bold>5:</bold> Introduce yourself to the OSINT community and let others know you are ready to learn by including the hashtag #OSINTDOJO`
+<b>1:</b> Participate in an OSINT CTF<br>
+<b>2:</b> Attempt 2 OSINT challenges or quizzes of any kind<br>
+<b>3:</b> Create and share a 2-minute video showcasing the steps you tool to solve a previous OSINT challenge<br>
+<b>4:</b> Write and publish an article of at least 250 words showcasing steps you took to solve a previous OSINT challenge<br>
+<b>5:</b> Introduce yourself to the OSINT community and let others know you are ready to learn by including the hashtag #OSINTDOJO`
 
   document.getElementById("studentrank").src = "/OSINTStudentLogo.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
