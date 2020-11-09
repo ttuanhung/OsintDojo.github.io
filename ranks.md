@@ -141,15 +141,15 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  
   count = 3;
    
-  document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>The third rank in the OSINT Dojo is Samurai. Users at this level should be familiar with many OSINT techniques, methodologies, and platforms, and may even already have a specialization in one or more areas. Those that reach this level will continue to hone their OSINT skills introducted in the Student and Ronin stages, while reducing their reliance on OSINT challenges as prompts for video or written challenges. The video and written challenges will also increase in length and users are expected to judge or provide some other form of volunteer assistance for an OSINT CTF to gain experience and learn how others perform the same OSINT tasks, though often using different techniques and methodologies. Users must spend a minimum of 2 months in the Ronin level before applying for the Samurai rank.<br><br>
+  document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>The third rank in the OSINT Dojo is Samurai. Users at this level should be familiar with many OSINT techniques, methodologies, and platforms, and may even already have a specialization in one or more areas. Those that reach this level will continue to hone their OSINT skills introduced in the Student and Ronin stages, while reducing their reliance on OSINT challenges as prompts for video or written challenges. The video and written challenges will also increase in length and users are expected to judge or provide some other form of volunteer assistance for an OSINT CTF to gain experience and learn how others perform the same OSINT tasks, though often using different techniques and methodologies. Users must spend a minimum of 2 months in the Ronin level before applying for the Samurai rank.<br><br>
 
 In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Ronin level to meet the challenge requirements for this rank. Be sure to send the email using the email you would like the Badgr badge to be issued to.<br> <br>
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 50% of competitors or teams in an OSINT CTF<br>
 <b>2:</b> Be the first to successfully answer one OSINT challenge of any type<br>
-<b>3:</b> Create a 4-minute video showcasing an OSINT technique or demonstration unrelated to an OSINT challen<br>
-<b>4:</b> Write and publish an article of at least 500 words showcasing steps you took to solve a previous OSINT challenge<br>
+<b>3:</b> Create a 4-minute video showcasing an OSINT technique or demonstration unrelated to an OSINT challenge<br>
+<b>4:</b> Write and publish an article, tweet, or blog post of at least 500 words showcasing steps you took to solve a previous OSINT challenge<br>
 <b>5:</b> Judge, or otherwise work as staff for an OSINT CTF`
 
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
@@ -163,8 +163,19 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  {
  
   count = 4;
+  document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>Daimyo is the fourth rank in the OSINT Dojo, and the first of the two senior ranks. Users at this level should no longer rely on simple OSINT challenges as a prompt for video or written challenges, and instead should be looking to share their expertise with others. As part of this requirement, those performing at the Daimyo level are also required to provide some form of mentorship to another OSINT Dojo member at a rank below their own.
   
-  document.getElementById("chosenrank").innerHTML =`DAIMYO TEXT`
+ Those that reach this level will continue to hone their OSINT skills introduced in the Student and Ronin stages, while reducing their reliance on OSINT challenges as prompts for video or written challenges. The video and written challenges will also increase in length and users are expected to judge or provide some other form of volunteer assistance for an OSINT CTF to gain experience and learn how others perform the same OSINT tasks, though often using different techniques and methodologies. Users must spend a minimum of 4 months in the Samurai level before applying for the Daimyo rank.<br><br>
+
+In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Ronin level to meet the challenge requirements for this rank. Be sure to send the email using the email you would like the Badgr badge to be issued to.<br> <br>
+
+<h3>Rank Requirements</h3>
+<b>1:</b> Rank in the top 25% of competitors or teams in an OSINT CTF<br>
+<b>2:</b> Be the first to successful answer a non-geolocation OSINT challenge<br>
+<b>3:</b> Speak as a guest regarding OSINT on a podcast, webcast, or similar<br>
+<b>4:</b> Write and publish one OSINT related article, not related to an OSINT challenge that contains at least 500 words<br>
+<b>5:</b> Provide mentorship to another OSINT Dojo member of a lower rank`
+
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
   document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
