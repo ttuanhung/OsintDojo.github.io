@@ -186,7 +186,17 @@ In order to obtain this rank, you must send an email to the OSINT Dojo with proo
  
   count = 5;
   
-  document.getElementById("chosenrank").innerHTML =`SHOGUN TEXT`
+document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>The most senior rank in the traditional path of the OSINT Dojo is Shogun. Users obtaining this level will have likely already made a significant impact on the OSINT community by this point in their journey. At the Shogun level, users are expected to coninue to hone their investigative skills by attempting more difficult challenges and placing higher up in the list of competitors in OSINT CTFs. Those achieving the Shogun level should also have a strong enough technical undestanding of a number of OSINT techniques or methodologies to be able to give a related talk at a virtual or in-person conference as well as create or contribute to an OSINT project at a technical level. Users must spend a minimum of 6 months in the Daimyo level before applying for the Shogun rank.<br><br>
+
+In order to obtain this rank, you must send an email to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Daimyo level to meet the challenge requirements for this rank. Be sure to send the email using the email you would like the Badgr badge to be issued to.<br> <br>
+
+<h3>Rank Requirements</h3>
+<b>1:</b> Rank in the top 10% of competitors or teams in an OSINT CTF<br>
+<b>2:</b> Complete one of Sector35's OSINT quizzes<br>
+<b>3:</b> Give an OSINT related presentation at a virtual or in person conference<br>
+<b>4:</b> Write and publish one OSINT related article, not related to an OSINT challenge that contains at least 1000 words<br>
+<b>5:</b> Create a new, or contribute to an existing, OSINT tool, project, or code repository`
+
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
   document.getElementById("roninrank").src = "/OSINTRONINLogo2.svg";
   document.getElementById("samurairank").src = "/OSINTSamuraiLogo2.svg";
