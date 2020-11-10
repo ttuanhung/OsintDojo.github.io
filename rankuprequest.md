@@ -7,5 +7,5 @@ permalink: /rankuprequest/
 <hr>
 
 <center>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfB4WW8WgVNFUa4lj-T4OhHPr6prwdP4SFng_lLptPKCkbgqw/viewform?embedded=true" width="600" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfB4WW8WgVNFUa4lj-T4OhHPr6prwdP4SFng_lLptPKCkbgqw/viewform?embedded=true" width="500" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </center>
