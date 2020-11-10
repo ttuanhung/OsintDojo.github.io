@@ -205,3 +205,11 @@ In order to obtain this rank, you must send a rank up <a href="https://www.osint
  }
             
 </script>
+
+<style>
+ 
+ body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
+</style>
