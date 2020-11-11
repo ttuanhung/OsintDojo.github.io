@@ -9,8 +9,8 @@ permalink: /secret/
 <h3>Samurai</h3>
 Placeholder
 
-<h3>Daimyo/h3>
+<h3>Daimyo</h3>
 Placeholder
 
 <h3>Sensei</h3>
-<bold>646965</bold>
+<b>646965</b>
