@@ -17,5 +17,8 @@ permalink: /faqs/
 
 <p><b>To rank up:</b> Each level within the OSINT Dojo contains a list of requirements needed in order to achieve that level and obtain the associated badge. In order to achieve the next rank, you must successfully complete all of the rank requirements and submit proof of completion to the OSINT Dojo via email. Also make sure that you have spent the minimum amount of time in your current level before submitting your documentation to rank up to the next level. </p>
 
-<h3>What data do you collect?</h3>
-<p>In order to award your badge, the OSINT Dojo will need you to provide the email address you want the Badgr badge sent over to. We ask that you sent your rank up requests using the email in which you would like to have the Badgr badge awarded to. </p>
+<h3>What is the Code of Conduct?</h3>
+<p> You've likely heard the phrase "OSINT for good", and that is what we want to strive for. The OSINT Dojo will not tolerate users engaging in bullying, harassment, stalking, or other behavior which breaks any laws, crosses ethical boundaries, or makes other users feel unwelcome. Users found to be engaging in problematic or malicious behavior are subject to badge forfeiture and their removal from the program.</p>
+
+<h3>Can I use an OSINT challenge, CTF, etc, not listed in the resource section to satisfy challenge requirements?/h3>
+<p> The OSINT challenges and CTFs listed in the resources section are pre-approved to satisfy challenge rquirements. The OSINT Dojo cannot guarantee that OSINT challenges and CTFs outside this list will be accepted with first reviewing the source. If you would like us to review a potential new source of OSINT challenges or CTFs for review please submit the resource for review via Email or Twitter.</p>
