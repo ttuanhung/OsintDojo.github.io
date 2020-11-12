@@ -10,16 +10,16 @@ permalink: /resources/
 <hr>
 
 <h3>Article Publishing Platforms</h3>
-<a href="https://www.secjuice.com/join-secjuice-writing-team/" target="_blank>Secjuice</a> <br>
-<a href="https://about.medium.com/creators/" target="_blank>Medium</a><br>
+<a href="https://www.secjuice.com/join-secjuice-writing-team/" target="_blank">Secjuice</a> <br>
+<a href="https://about.medium.com/creators/" target="_blank">Medium</a><br>
 
 <h3>Video Streaming Platforms</h3>
-<a href="https://www.twitch.tv/" target="_blank>Twitch</a><br>
-<a href="https://www.youtube.com" target="_blank>Youtube</a><br>
+<a href="https://www.twitch.tv/" target="_blank">Twitch</a><br>
+<a href="https://www.youtube.com" target="_blank">Youtube</a><br>
 
 <h3>OSINT Challenges</h3>
-<a href="https://twitter.com/quiztime" target="_blank>Quiztime Crew</a><br>
-<a href="https://twitter.com/Sector035/status/1211038518635614208" target="_blank>Sector035's OSINT Quiz</a><br>
+<a href="https://twitter.com/quiztime" target="_blank">Quiztime Crew</a><br>
+<a href="https://twitter.com/Sector035/status/1211038518635614208" target="_blank">Sector035's OSINT Quiz</a><br>
 
 <h3>OSINT CTFs</h3>
 <a href="https://www.tracelabs.org/initiatives/search-party">TraceLabs</a><br>
