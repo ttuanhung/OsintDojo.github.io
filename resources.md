@@ -35,6 +35,7 @@ permalink: /resources/
 <hr>
 
 <h3>General Methodology</h3>
+<a href="https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it#osint-techniques-and-resources" target="_blank">What is OSINT?</a><br>
 <a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/" target="_blank">The OSINT Intelligence Cycle Part I</a><br>
 <a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/" target="_blank">OSINT & The Intelligence Cycle Part II</a><br>
 <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><br>
@@ -88,10 +89,14 @@ permalink: /resources/
 
 <h3>General OSINT Tools</h3>
 <a href="https://www.maltego.com/" target="_blank">Maltego</a><br>
+<a href="https://www.shodan.io/" target="_blank">Shodan</a><br>
+<a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a><br>
+<a href="https://www.whoxy.com/" target="_blank">Whoxy/a><br>
+<a href="http://www.visualsitemapper.com/" target="_blank">Virtual Site Mapper</a><br>
+<a href="http://fotoforensics.com/" target="_blank">FotoForensics</a><br>
 <a href="https://osintframework.com/" target="_blank">OSINT Framework</a><br>
 <a href="https://www.osintcombine.com/tools" target="_blank">OSINT Combine Tools</a><br>
 <a href="https://www.technisette.com/p/tools" target="_blank">Technisette Tools</a><br>
-<a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a><br>
 <a href="https://www.osinttechniques.com/osint-tools.html" target="_blank">OSINT Techniques: OSINT Tools</a><br>
 <a href="https://www.secjuice.com/osint-bookmarklet-tools/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
 <a href="https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p2)</a><br>
@@ -101,12 +106,13 @@ permalink: /resources/
 <a href="https://www.redditinvestigator.com/" target="_blank">Reddit Investigator</a><br>
 <a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
 
+
 <h3>Other Resources</h3>
-<a href="https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/" target="_blank">CyberSec Stus Big List of Resources/a><br>
+<a href="https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/" target="_blank">CyberSec Stus Big List of Resources</a><br>
 <a href="https://osintcurio.us/" target="_blank">OSINTCurio.us</a><br>
 <a href="https://sector035.nl/articles/category:week-in-osint" target="_blank">Sector035 Week In OSINT</a><br>
 <a href="https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list" target="_blank">Nixintel's OSINT Resource List</a><br>
 <a href="https://www.reconvillage.org/" target="_blank">Recon Village</a><br>
-
+<a href="https://osint.link/" target="_blank">OSINT.Link</a><br>
 
 
