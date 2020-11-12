@@ -4,10 +4,6 @@ filename: faqs.md
 permalink: /faqs/
 ---
 
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="bullet.svg">
-</head>
-
 <center> <h1> FAQS </h1> </center>
 <hr>
 
