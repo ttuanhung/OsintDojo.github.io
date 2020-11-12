@@ -3,6 +3,11 @@ layout: template
 filename: faqs.md
 permalink: /faqs/
 ---
+
+<header>
+<link rel="shortcut icon" type="image/x-icon" href="bullet.svg">
+</header>
+
 <center> <h1> FAQS </h1> </center>
 <hr>
 
