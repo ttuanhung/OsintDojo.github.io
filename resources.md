@@ -24,6 +24,12 @@ permalink: /resources/
 <h3>OSINT CTFs</h3>
 <a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
 
+<h3>Make a Difference with OSINT</h3>
+<a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
+<a href="https://www.innocentlivesfoundation.org/" target="_blank">Innocent Lives Foundation</a><br>
+<a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program</a><br>
+<a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object</a><br>
+
 <hr>
 <center><h2>OSINT Articles</h2></center>
 <hr>
@@ -96,10 +102,11 @@ permalink: /resources/
 <a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
 
 <h3>Other Resources</h3>
+<a href="https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/" target="_blank">CyberSec Stus Big List of Resources/a><br>
 <a href="https://osintcurio.us/" target="_blank">OSINTCurio.us</a><br>
 <a href="https://sector035.nl/articles/category:week-in-osint" target="_blank">Sector035 Week In OSINT</a><br>
 <a href="https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list" target="_blank">Nixintel's OSINT Resource List</a><br>
-
+<a href="https://www.reconvillage.org/" target="_blank">Recon Village</a><br>
 
 
 
