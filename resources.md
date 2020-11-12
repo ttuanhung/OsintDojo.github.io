@@ -91,7 +91,7 @@ permalink: /resources/
 <a href="https://www.maltego.com/" target="_blank">Maltego</a><br>
 <a href="https://www.shodan.io/" target="_blank">Shodan</a><br>
 <a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a><br>
-<a href="https://www.whoxy.com/" target="_blank">Whoxy/a><br>
+<a href="https://www.whoxy.com/" target="_blank">Whoxy</a><br>
 <a href="http://www.visualsitemapper.com/" target="_blank">Virtual Site Mapper</a><br>
 <a href="http://fotoforensics.com/" target="_blank">FotoForensics</a><br>
 <a href="https://osintframework.com/" target="_blank">OSINT Framework</a><br>
