@@ -120,7 +120,7 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
    count = 2;
    document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>Ronin is the second level within the OSINT Dojo. Those performing at the Ronin rank should be familiar with basic OSINT techniques and terms, and should be comfortable with searching for solutions to anything that they do not immediately understand. Users in this level will see their challenges increase in difficulty and they will be expected to perform at a slightly higher level than they did in the Student rank. Similar to the Student rank, challenges in the Ronin level heavily revolve around performing simple OSINT challenges and then using that experience to provide video or written products. Users must spend a minimum of 1 month in the Student level before applying for the Ronin rank.<br><br>
 
-In order to obtain this rank, you must you must submit a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Student level to meet the challenge requirements for this rank.<br> <br>
+In order to obtain this rank, you must submit a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Student level to meet the challenge requirements for this rank.<br> <br>
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 75% of competitors or teams in an OSINT CTF<br>
