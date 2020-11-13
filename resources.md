@@ -27,8 +27,8 @@ permalink: /resources/
 <h3>Make a Difference with OSINT</h3>
 <a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
 <a href="https://www.innocentlivesfoundation.org/" target="_blank">Innocent Lives Foundation</a><br>
-<a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program</a><br>
-<a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object</a><br>
+<a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program (Content Warning)</a><br>
+<a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object (Content Warning)</a><br>
 
 <hr>
 <center><h2>OSINT Articles</h2></center>
