@@ -27,6 +27,7 @@ permalink: /resources/
 <a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program (Content Warning: Crimes Against Children)</a><br>
 <a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object (Content Warning: Crimes Against Children)</a><br>
 <a href="https://www.geoguessr.com/" target="_blank">Geoguesser</a><br>
+<a href="https://sourcing.games/" target="_blank">Sourcing Games</a><br>
 
 <hr>
 <center><h2>OSINT Articles, Tools, and Resources</h2></center>
@@ -60,6 +61,7 @@ permalink: /resources/
 <a href="https://archive.org/" target="_blank">Wayback Machine</a><br>
 <a href="http://archive.is/" target="_blank">Archive.is</a><br>
 <a href="https://www.scamadviser.com/" target="_blank">Scamadvisor</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf" target="_blank">Website OSINT Attack Surface</a><br>
 
 
 <h3>Images</h3>
@@ -77,10 +79,6 @@ permalink: /resources/
 
 <h3>Visualization Tools</h3>
 <a href="https://www.maltego.com/" target="_blank">Maltego</a><br>
-
-<h3>Facebook</h3>
-
-<h3>Twitter</h3>
 
 <h3>Instagram</h3>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf" target="_blank">Instagram OSINT Attack Surface</a><br>
@@ -103,6 +101,8 @@ permalink: /resources/
 <h3>TikTok</h3>
 <a href="https://www.secjuice.com/osint-investigations-on-tiktok/" target="_blank">OSINT Investigations on TikTok</a><br>
 <a href="https://vidnice.com/" target="_blank">Vidnice</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools">TikTok OSINT Bookmarklet Tools</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/TikTok/TikTok%20OSINT%20Attack%20Surface.png" target="_blank">TikTok OSINT Attack Surface</a><br>
 
 <h3>Other Platforms</h3>
 <a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
@@ -110,7 +110,9 @@ permalink: /resources/
 <a href="https://www.secjuice.com/part-2-pokemon-osint-techniques/" target="_blank">Pokémon GO OSINT Techniques: Part II</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/PokemonGo/PokemonGo%20OSINT%20Attack%20Surface.pdf" target="_blank">Pokémon GO OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/PokemonGo/Bookmarklet%20Tools" target="_blank">Pokémon GO OSINT Bookmarklet Tools</a><br>
-<a href="https://www.secjuice.com/tumblr-osint/" target="_blank">OSINT Investigations on Tumblr</a><br>
+<a href="https://www.secjuice.com/tumblr-osint/" target="_blank">Tumblr OSINT Techniques</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Tumblr/Tumblr%20OSINT%20Attack%20Surface.pdf" target="_blank">Tumblr OSINT Attack Surface</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Tumblr/Bookmarklet%20Tools" target="_blank">Tumblr OSINT Bookmarklet Tools</a><br>
 <a href="https://www.secjuice.com/investigate-gab-users-osint/" target="_blank">Gab OSINT Techniques</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Gab/Gab%20OSINT%20Attack%20Surface.png" target="_blank">Gab OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Gab/Bookmarklet%20Tools" target="_blank">Gab OSINT Bookmarklet Tools</a><br>
