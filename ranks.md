@@ -124,9 +124,9 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 75% of competitors or teams in an OSINT CTF<br>
-<b>2:</b> Attempt 1 non-Geolocation-Based OSINT Challenge<br>
+<b>2:</b> Attempt 1 non-Geolocation-Based OSINT quiz<br>
 <b>3:</b> Create and share a 2-minute video showcasing any OSINT topic or technique<br>
-<b>4:</b> Write and publish an article, tweet, or blog post of at least 250 words showcasing steps you took to solve a previous OSINT challenge<br>
+<b>4:</b> Write and publish an article, tweet, or blog post of at least 250 words showcasing steps you took to solve a previous OSINT quiz<br>
 <b>5:</b> Find a new or recent OSINT article, technique, code repository, etc and share it with the OSINT Dojo community so we can add it to our resources list`
 
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
@@ -147,9 +147,9 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 50% of competitors or teams in an OSINT CTF<br>
-<b>2:</b> Be the first to successfully answer one OSINT challenge of any type<br>
-<b>3:</b> Create and share a 4-minute video showcasing an OSINT technique or demonstration unrelated to an OSINT challenge<br>
-<b>4:</b> Write and publish an article, tweet, or blog post of at least 500 words showcasing steps you took to solve a previous OSINT challenge<br>
+<b>2:</b> Be the first to successfully answer one OSINT quiz of any type<br>
+<b>3:</b> Create and share a 4-minute video showcasing an OSINT technique or demonstration unrelated to an OSINT quizbr>
+<b>4:</b> Write and publish an article, tweet, or blog post of at least 500 words showcasing steps you took to solve a previous OSINT quiz<br>
 <b>5:</b> Judge, or otherwise work as staff for an OSINT CTF`
 
   document.getElementById("studentrank").src = "/OSINTStudentLogo2.svg";
