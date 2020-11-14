@@ -17,18 +17,14 @@ permalink: /resources/
 <a href="https://www.twitch.tv/" target="_blank">Twitch</a><br>
 <a href="https://www.youtube.com" target="_blank">Youtube</a><br>
 
-<h3>OSINT Challenges</h3>
+<h3>OSINT CTFs and Challenges</h3>
 <a href="https://twitter.com/quiztime" target="_blank">Quiztime Crew</a><br>
 <a href="https://twitter.com/Sector035/status/1211038518635614208" target="_blank">Sector035's OSINT Quiz</a><br>
-
-<h3>OSINT CTFs</h3>
-<a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
-
-<h3>Make a Difference with OSINT</h3>
 <a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
 <a href="https://www.innocentlivesfoundation.org/" target="_blank">Innocent Lives Foundation</a><br>
-<a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program (Content Warning, Related to Crimes Against Children)</a><br>
-<a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object (Content Warning, Related to Crimes Against Children)</a><br>
+<a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program (Content Warning: Crimes Against Children)</a><br>
+<a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object (Content Warning: Crimes Against Children)</a><br>
+<a href="https://www.geoguessr.com/" target="_blank">Geoguesser</a><br>
 
 <hr>
 <center><h2>OSINT Articles, Tools, and Resources</h2></center>
@@ -40,7 +36,6 @@ permalink: /resources/
 <a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/" target="_blank">OSINT & The Intelligence Cycle Part II</a><br>
 <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><br>
 
-
 <h3>Usernames</h3>
 <a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a><br>
 <a href="https://github.com/sherlock-project/sherlock" target="_blank">Sherlock</a><br>
@@ -49,26 +44,34 @@ permalink: /resources/
 
 <h3>Email</h3>
 <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPwned</a><br>
+<a href="https://dehashed.com/" target="_blank">Dehashed</a><br>
 
 <h3>Person Searches</h3>
 <a href="https://www.melissa.com/v2/lookups/" target="_blank">Melissa Lookups</a><br>
+<a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
 
 <h3>Websites and Domains</h3>
 <a href="https://www.shodan.io/" target="_blank">Shodan</a><br>
 <a href="https://www.whoxy.com/" target="_blank">Whoxy</a><br>
+<a href="https://whatismyipaddress.com/" target="_blank">WhatIsMyIPAddress</a><br>
 <a href="http://www.visualsitemapper.com/" target="_blank">Virtual Site Mapper</a><br>
+<a href="https://archive.org/" target="_blank">Wayback Machine</a><br>
+<a href="http://archive.is/" target="_blank">Archive.is</a><br>
+<a href="https://www.scamadviser.com/" target="_blank">Scamadvisor</a><br>
+
 
 <h3>Images</h3>
 <a href="http://fotoforensics.com/" target="_blank">FotoForensics</a><br>
 <a href="http://exif.regex.info/exif.cgi" target="_blank">Jeffrey's Image Metadata Viewer</a><br>
-<a href="https://inkscape.org/" target="_blank">Inkscape</a><br>
-<a href="https://www.gimp.org/" target="_blank">GIMP</a><br>
 <a href="https://tineye.com/" target="_blank">Tineye</a><br>
 <a href="https://lens.google.com/" target="_blank">Google Lens</a><br>
 <a href="https://images.google.com/" target="_blank">Google Reverse Image Search</a><br>
 <a href="https://yandex.com/images/" target="_blank">Yandex Reverse Image Search</a><br>
 <a href="http://www.baidu.com/" target="_blank">Baidu Reverse Image Search</a><br>
 <a href="https://www.bing.com/images/trending?form=Z9LH" target="_blank">Bing Reverse Image Search</a><br>
+<a href="https://pimeyes.com/en/" target="_blank">PimEyes</a><br>
+<a href="https://inkscape.org/" target="_blank">Inkscape</a><br>
+<a href="https://www.gimp.org/" target="_blank">GIMP</a><br>
 
 <h3>Visualization Tools</h3>
 <a href="https://www.maltego.com/" target="_blank">Maltego</a><br>
@@ -97,6 +100,7 @@ permalink: /resources/
 
 <h3>TikTok</h3>
 <a href="https://www.secjuice.com/osint-investigations-on-tiktok/" target="_blank">OSINT Investigations on TikTok</a><br>
+<a href="https://vidnice.com/" target="_blank">Vidnice</a><br>
 
 <h3>Other Platforms</h3>
 <a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
@@ -114,6 +118,7 @@ permalink: /resources/
 <a href="https://www.secjuice.com/osint-bookmarklet-tools/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
 <a href="https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p2)</a><br>
 <a href="https://www.secjuice.com/osint-username-search-tool/" target="_blank">Build An OSINT Username Search Tool Using SULTAN</a><br>
+<a href="https://jakecreps.com/2018/12/07/python-future/" target="_blank">Python is the Future of OSINT</a><br>
 
 <h3>OSINT Employment</h3>
 <a href="https://www.secjuice.com/landing-your-first-job-in-osint/" target="_blank">Getting Your First job in OSINT</a><br>
@@ -122,6 +127,7 @@ permalink: /resources/
 <h3>Other Resources</h3>
 <a href="https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/" target="_blank">CyberSec Stus Big List of Resources</a><br>
 <a href="https://osintcurio.us/" target="_blank">OSINTCurio.us</a><br>
+<a href="https://www.bellingcat.com/" target="_blank">Bellingcat</a><br>
 <a href="https://sector035.nl/articles/category:week-in-osint" target="_blank">Sector035 Week In OSINT</a><br>
 <a href="https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list" target="_blank">Nixintel's OSINT Resource List</a><br>
 <a href="https://osint.link/" target="_blank">OSINT.Link</a><br>
