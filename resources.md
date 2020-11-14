@@ -21,6 +21,8 @@ permalink: /resources/
 <a href="https://twitter.com/quiztime" target="_blank">Quiztime Crew</a><br>
 <a href="https://twitter.com/Sector035/status/1211038518635614208" target="_blank">Sector035's OSINT Quiz</a><br>
 <a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
+
+<h3>Other Ways to Use OSINT</h3>
 <a href="https://www.innocentlivesfoundation.org/" target="_blank">Innocent Lives Foundation</a><br>
 <a href="https://www.fbi.gov/wanted/ecap" target="_blank">FBI Endangered Child Alert Program (Content Warning: Crimes Against Children)</a><br>
 <a href="https://www.europol.europa.eu/stopchildabuse" target="_blank">Europol Trace an Object (Content Warning: Crimes Against Children)</a><br>
