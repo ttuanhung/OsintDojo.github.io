@@ -143,7 +143,7 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
    
   document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>The third rank in the OSINT Dojo is Samurai. Users at this level should be familiar with many OSINT techniques, methodologies, and platforms, and may even already have a specialization in one or more areas. Those that reach this level will continue to hone their OSINT skills introduced in the Student and Ronin stages, while simultaneously reducing their reliance on OSINT challenges as prompts for video or writing challenges. Users are also expected to judge or provide some other form of volunteer assistance for an OSINT CTF to gain experience and learn how others perform the same OSINT tasks, though often using different techniques and methodologies. Users must spend a minimum of 2 months in the Ronin level before applying for the Samurai rank.<br><br>
 
-In order to obtain this rank, you must send a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Ronin level to meet the challenge requirements for this rank.<br> <br>
+In order to obtain this rank, you must submit a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Ronin level to meet the challenge requirements for this rank.<br> <br>
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 50% of competitors or teams in an OSINT CTF<br>
@@ -165,7 +165,7 @@ In order to obtain this rank, you must send a rank up <a href="https://www.osint
   count = 4;
   document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>Daimyo is the fourth rank in the OSINT Dojo, and the first of the two senior ranks. Users at this level should no longer rely on simple OSINT challenges as a prompt for video or writing challenges, and instead should be looking to share their expertise with others. As part of this requirement, those applying for the Daimyo level are also required to provide some form of mentorship to another OSINT Dojo member at a rank below their own. A Daimyo also should have obtained enough experience to be able to provide commentary, answer questions, or otherwise hold a conversation regarding OSINT in a podcast, webcast, or similar setting. Users must spend a minimum of 4 months in the Samurai level before applying for the Daimyo rank.<br><br>
 
-In order to obtain this rank, you must send a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Samurai level to meet the challenge requirements for this rank.<br> <br>
+In order to obtain this rank, you must submit a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Samurai level to meet the challenge requirements for this rank.<br> <br>
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 25% of competitors or teams in an OSINT CTF<br>
@@ -188,7 +188,7 @@ In order to obtain this rank, you must send a rank up <a href="https://www.osint
   
 document.getElementById("chosenrank").innerHTML =`<h3>Rank Description</h3>Shogun is the most senior rank in the traditional path of the OSINT Dojo. Users obtaining this level will have likely already made a significant impact on the OSINT community. At the Shogun level, users are expected to continue to hone their skills by attempting more difficult challenges and placing higher up in the list of competitors in OSINT CTFs. Those achieving the Shogun level should also have a strong enough technical understanding of several OSINT techniques or methodologies to be able to give a related talk at a virtual or in-person conference as well as create or contribute to an OSINT project at a technical level. Users must spend a minimum of 6 months in the Daimyo level before applying for the Shogun rank.<br><br>
 
-In order to obtain this rank, you must send a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Daimyo level to meet the challenge requirements for this rank.<br> <br>
+In order to obtain this rank, you must submit a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a> to the OSINT Dojo with proof that you have completed all of the Rank Requirements listed below. You may only use work completed while holding the Daimyo level to meet the challenge requirements for this rank.<br> <br>
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 10% of competitors or teams in an OSINT CTF<br>
