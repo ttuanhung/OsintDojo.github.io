@@ -12,5 +12,8 @@ Placeholder
 <h3>Daimyo</h3>
 Placeholder
 
+<h3>Shogun</h3>
+Placeholder
+
 <h3>Sensei</h3>
-<b>646965</b>
+<a href="https://twitter.com/sinwindie"><b>646965</b></a>
