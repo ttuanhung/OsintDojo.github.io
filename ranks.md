@@ -7,7 +7,7 @@ permalink: /ranks/
 <hr>
 
 <center>
-Click on a rank below to view the description and associated requirements.
+Click on a rank below to view the description and associated requirements.<br>
  
 <img id="studentrank" onclick="clickstudent();" src="/OSINTStudentLogo2.svg" width="90" height="90" onmouseover="hoverstudentrank();" onmouseout="unhoverstudentrank();"  alt="Student"/> 
 
