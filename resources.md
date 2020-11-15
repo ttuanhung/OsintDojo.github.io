@@ -63,7 +63,6 @@ permalink: /resources/
 <a href="https://www.scamadviser.com/" target="_blank">Scamadvisor</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf" target="_blank">Website OSINT Attack Surface</a><br>
 
-
 <h3>Images</h3>
 <a href="http://fotoforensics.com/" target="_blank">FotoForensics</a><br>
 <a href="http://exif.regex.info/exif.cgi" target="_blank">Jeffrey's Image Metadata Viewer</a><br>
@@ -79,6 +78,10 @@ permalink: /resources/
 
 <h3>Visualization Tools</h3>
 <a href="https://www.maltego.com/" target="_blank">Maltego</a><br>
+
+<h3>Collection Tools</h3>
+<a href="http://osirtbrowser.com/" target="_blank">Open Source Internet Research Tool</a><br>
+<a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en target="_blank">FireShot Addon</a><br>
 
 <h3>Instagram</h3>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf" target="_blank">Instagram OSINT Attack Surface</a><br>
