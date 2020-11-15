@@ -17,7 +17,7 @@ permalink: /resources/
 <a href="https://www.twitch.tv/" target="_blank">Twitch</a><br>
 <a href="https://www.youtube.com" target="_blank">Youtube</a><br>
 
-<h3>OSINT CTFs and Challenges</h3>
+<h3>OSINT CTFs and Quizzes</h3>
 <a href="https://twitter.com/quiztime" target="_blank">Quiztime Crew</a><br>
 <a href="https://twitter.com/Sector035/status/1211038518635614208" target="_blank">Sector035's OSINT Quiz</a><br>
 <a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs</a><br>
