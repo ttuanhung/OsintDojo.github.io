@@ -102,7 +102,7 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Participate in an OSINT CTF<br>
-<b>2:</b> Attempt 2 OSINT quizzes of any kind<br>
+<b>2:</b> Attempt 2 OSINT quizzes of any kind. Don't just make a guess, show the reasoning behind your answer!<br>
 <b>3:</b> Create and share a 2-minute video showcasing the steps you took to solve a previous OSINT quiz<br>
 <b>4:</b> Write and publish an article, tweet, or blog post of at least 250 words showcasing steps you took to solve a previous OSINT quiz<br>
 <b>5:</b> Introduce yourself to the OSINT community and let others know you are ready to learn by including the hashtag #OSINTDOJO`
@@ -124,7 +124,7 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 75% of competitors or teams in an OSINT CTF<br>
-<b>2:</b> Attempt 1 non-Geolocation-Based OSINT quiz<br>
+<b>2:</b> Attempt 1 non-Geolocation-Based OSINT quiz. Don't just make a guess, show the reasoning behind your answer!<br>
 <b>3:</b> Create and share a 2-minute video showcasing any OSINT topic or technique<br>
 <b>4:</b> Write and publish an article, tweet, or blog post of at least 250 words showcasing steps you took to solve a previous OSINT quiz<br>
 <b>5:</b> Find a new or recent OSINT article, technique, code repository, etc and share it with the OSINT Dojo community so we can add it to our resources list`
@@ -169,7 +169,7 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 25% of competitors or teams in an OSINT CTF<br>
-<b>2:</b> Be the first to successful answer a non-geolocation OSINT quiz<br>
+<b>2:</b> Be the first to successfully answer a non-geolocation OSINT quiz<br>
 <b>3:</b> Speak as a guest regarding OSINT on a podcast, webcast, or similar<br>
 <b>4:</b> Write and publish one OSINT related article not related to an OSINT quiz that contains at least 500 words<br>
 <b>5:</b> Provide mentorship to another OSINT Dojo member of a lower rank`
@@ -192,7 +192,7 @@ In order to obtain this rank, you must submit a rank up <a href="https://www.osi
 
 <h3>Rank Requirements</h3>
 <b>1:</b> Rank in the top 10% of competitors or teams in an OSINT CTF<br>
-<b>2:</b> Complete one of Sector35's OSINT quizzes<br>
+<b>2:</b> Complete one of Sector35's multi-part OSINT quizzes<br>
 <b>3:</b> Give an OSINT related presentation at a virtual or in person conference<br>
 <b>4:</b> Write and publish one OSINT related article not related to an OSINT quiz that contains at least 1000 words<br>
 <b>5:</b> Create a new, or contribute to an existing, OSINT tool, project, or code repository`
