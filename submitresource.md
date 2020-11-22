@@ -3,7 +3,7 @@ layout: template
 filename: submitresource.md
 permalink: /submitresource/
 ---
-<center><h1>Submit A Resource or Broken Link</h1></center>
+<center><h1>Submit a Resource or Broken Link</h1></center>
 <hr>
 
 <center>
