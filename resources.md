@@ -241,7 +241,16 @@ permalink: /resources/
 <a href="https://www.youtube.com/watch?v=eLL6BPKvwlg" target="_blank">Weaponizing the Deep Web</a><br>
 <a href="https://www.youtube.com/watch?v=DSEGmdzs9Kg" target="_blank">OSINT in the Real World</a><br>
 
+<hr>
+<center><h2>OSINT Courses and Trainings</h2></center>
+<hr>
+<h3>Free</h3>
+<a href="https://www.nw3c.org/classroom-training/classroom-course-detail/11523 " target="_blank">NW3C: Basic Cyber Investigations (US Gov Only)</a><br>
 
+<h3>Paid</h3>
+<a href="https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/" target="_blank">SANS SEC487</a><br>
+<a href="https://academy.osintcombine.com/" target="_blank">OSINT Combine Academy</a><br>
+<a href="https://www.toddington.com/osint-training/" target="_blank">Toddington OSINT Training</a><br>
 
 
 
