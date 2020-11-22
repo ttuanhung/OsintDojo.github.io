@@ -35,15 +35,24 @@ permalink: /resources/
 
 <h3>General Methodology</h3>
 <a href="https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it#osint-techniques-and-resources" target="_blank">What is OSINT?</a><br>
-<a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/" target="_blank">The OSINT Intelligence Cycle Part I</a><br>
+<a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/" target="_blank">OSINT & The Intelligence Cycle Part I</a><br>
 <a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/" target="_blank">OSINT & The Intelligence Cycle Part II</a><br>
-<a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><br>
+<a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iv-processing-raw-intelligence/ " target="_blank">OSINT & The Intelligence Cycle Part IV</a><br>
+<br>
 
 <h3>Usernames</h3>
 <a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a><br>
 <a href="https://github.com/sherlock-project/sherlock" target="_blank">Sherlock</a><br>
 <a href="https://knowem.com/" target="_blank">KnowEm</a><br>
-<a href="https://namechk.com/" target="_blank">Namech_k</a><br>
+<a href="https://namechk.com/" target="_blank">Namech_k</a>
+<a href="https://usersearch.org/index.php" target="_blank">UserSearch.org</a>
+<a href="https://checkusernames.com/" target="_blank">CheckUsernames</a>
+<a href="https://instantusername.com/#/" target="_blank">InstantUsername</a>
+<a href="https://knowem.com/checkusernames.php" target="_blank">KnowEm Username Check</a>
+<a href="https://www.namecheckr.com/" target="_blank">Name Checkr</a>
+<a href="https://github.com/issamelferkh/userrecon" target="_blank">User Recon</a>
+<a href="https://osintops.com/let-me-find-your-username/ " target="_blank">OSINTOps: Let me Find your Username</a>
+<br>
 
 <h3>Email</h3>
 <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPwned</a><br>
@@ -61,9 +70,14 @@ permalink: /resources/
 <a href="https://archive.org/" target="_blank">Wayback Machine</a><br>
 <a href="http://archive.is/" target="_blank">Archive.is</a><br>
 <a href="https://www.scamadviser.com/" target="_blank">Scamadvisor</a><br>
-<a href="https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf" target="_blank">Website OSINT Attack Surface</a><br>
+<a href="https://centralops.net/asp/co/DomainCheck.vbs.asp" target="_blank">Central Ops Domain Check</a><br>
+<a href="https://viewdns.info/" target="_blank">View DNS</a><br>
+<a href="https://urlscan.io/" target="_blank">URL Scan</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf" target="_blank">Website OSINT Attack Surface</a>
+<br>
 
 <h3>Images</h3>
+<a href="https://www.osintcombine.com/reverse-image-analyzer " target="_blank">OSINT Combine Reverse Image Analyzer</a><br>
 <a href="http://fotoforensics.com/" target="_blank">FotoForensics</a><br>
 <a href="http://exif.regex.info/exif.cgi" target="_blank">Jeffrey's Image Metadata Viewer</a><br>
 <a href="https://tineye.com/" target="_blank">Tineye</a><br>
@@ -75,6 +89,8 @@ permalink: /resources/
 <a href="https://pimeyes.com/en/" target="_blank">PimEyes</a><br>
 <a href="https://inkscape.org/" target="_blank">Inkscape</a><br>
 <a href="https://www.gimp.org/" target="_blank">GIMP</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.png" target="_blank">Images OSINT Attack Surface</a>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/Bookmarklet%20Tool" target="_blank">Image Analysis Bookmarklet Tool</a><br>
 
 <h3>Visualization Tools</h3>
 <a href="https://www.maltego.com/" target="_blank">Maltego</a><br>
@@ -84,6 +100,9 @@ permalink: /resources/
 <a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en" target="_blank">FireShot Addon</a><br>
 
 <h3>Instagram</h3>
+<a href="https://storiesdown.com/" target="_blank">Stories Down</a><br>
+<a href="https://gramho.com/" target="_blank">Gramho</a><br>
+<a href="https://www.picuki.com/" target="_blank">Picuki</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf" target="_blank">Instagram OSINT Attack Surface</a><br>
 
 <h3>Reddit</h3>
@@ -107,6 +126,16 @@ permalink: /resources/
 <a href="https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools">TikTok OSINT Bookmarklet Tools</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/TikTok/TikTok%20OSINT%20Attack%20Surface.png" target="_blank">TikTok OSINT Attack Surface</a><br>
 
+<h3>Twitter</h3>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.png" target="_blank">Twiter OSINT Attack Surface</a><br>
+
+<h3>Youtube</h3>
+<a href="hhttps://youtube-dl.org/" target="_blank">Youtube DL</a><br>
+<a href="https://citizenevidence.amnestyusa.org/" target="_blank">Youtube DataViewer</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.png" target="_blank">Youtube OSINT Attack Surfacep</a><br>
+<a href="https://savesubs.com/" target="_blank">SaveSubs</a><br>
+<a href="https://downsub.com/" target="_blank">DownSub</a><br>
+
 <h3>Other Platforms</h3>
 <a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
 <a href="https://www.secjuice.com/pokemon-go-osint-techniques/" target="_blank">Pokémon GO OSINT Techniques: Part I</a><br>
@@ -120,6 +149,16 @@ permalink: /resources/
 <a href="https://github.com/sinwindie/OSINT/blob/master/Gab/Gab%20OSINT%20Attack%20Surface.png" target="_blank">Gab OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Gab/Bookmarklet%20Tools" target="_blank">Gab OSINT Bookmarklet Tools</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf" target="_blank">Pinterest OSINT Attack Surface</a><br>
+
+<h3>Dark Web</h3>
+<a href="https://dark.fail/" target="_blank">Dark.Fail</a><br>
+<a href="http://reconponydonugup.onion" target="_blank">Recon (TOR)</a><br>
+<a href="https://ahmia.fi/" target="_blank">RAhmia Search</a><br>
+<a href="http://xmh57jrzrnw6insl.onion" target="_blank">Torch Search (TOR)</a><br>
+<a href="https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png" target="_blank">Dark Web OSINT Attack Surface</a><br>
+
+<h3>Cryptocurrency</h3>
+<a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
 
 <h3>OSINT Programming and Automation</h3>
 <a href="https://www.secjuice.com/osint-bookmarklet-tools/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
