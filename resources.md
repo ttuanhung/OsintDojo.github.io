@@ -3,7 +3,7 @@ layout: template
 filename: resources.md
 permalink: /resources/
 ---
-<center><h1>OSINT Resources</h1></center>
+<center><h1>OSINT Resources</h1><a href="/submitresource" target="_blank">Submit</a></center>
 <hr>
 
 <center><h2>General OSINT Dojo Resources</h2></center>
