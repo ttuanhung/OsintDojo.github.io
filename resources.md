@@ -108,7 +108,7 @@ permalink: /resources/
 <a href="https://pimeyes.com/en/" target="_blank">PimEyes</a><br>
 <a href="https://inkscape.org/" target="_blank">Inkscape</a><br>
 <a href="https://www.gimp.org/" target="_blank">GIMP</a><br>
-<a href="https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.png" target="_blank">Images OSINT Attack Surface</a>
+<a href="https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.png" target="_blank">Images OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/Bookmarklet%20Tool" target="_blank">Image Analysis Bookmarklet Tool</a><br>
 
 <h3>Visualization Tools</h3>
