@@ -37,20 +37,20 @@ permalink: /resources/
 <a href="https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it#osint-techniques-and-resources" target="_blank">What is OSINT?</a><br>
 <a href="https://www.secjuice.com/the-osint-intelligence-cycle-part-i-planning-and-direction/" target="_blank">OSINT & The Intelligence Cycle Part I</a><br>
 <a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/" target="_blank">OSINT & The Intelligence Cycle Part II</a><br>
-<a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iv-processing-raw-intelligence/ " target="_blank">OSINT & The Intelligence Cycle Part IV</a><br>
-<br>
+<a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><br> <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iv-processing-raw-intelligence/ " target="_blank">OSINT & The Intelligence Cycle Part IV</a><br>
+
 
 <h3>Usernames</h3>
 <a href="https://whatsmyname.app/" target="_blank">WhatsMyName</a><br>
 <a href="https://github.com/sherlock-project/sherlock" target="_blank">Sherlock</a><br>
 <a href="https://knowem.com/" target="_blank">KnowEm</a><br>
-<a href="https://namechk.com/" target="_blank">Namech_k</a>
-<a href="https://usersearch.org/index.php" target="_blank">UserSearch.org</a>
-<a href="https://checkusernames.com/" target="_blank">CheckUsernames</a>
-<a href="https://instantusername.com/#/" target="_blank">InstantUsername</a>
-<a href="https://knowem.com/checkusernames.php" target="_blank">KnowEm Username Check</a>
-<a href="https://www.namecheckr.com/" target="_blank">Name Checkr</a>
-<a href="https://github.com/issamelferkh/userrecon" target="_blank">User Recon</a>
+<a href="https://namechk.com/" target="_blank">Namech_k</a><br>
+<a href="https://usersearch.org/index.php" target="_blank">UserSearch.org</a><br>
+<a href="https://checkusernames.com/" target="_blank">CheckUsernames</a><br>
+<a href="https://instantusername.com/#/" target="_blank">InstantUsername</a><br>
+<a href="https://knowem.com/checkusernames.php" target="_blank">KnowEm Username Check</a><br>
+<a href="https://www.namecheckr.com/" target="_blank">Name Checkr</a><br>
+<a href="https://github.com/issamelferkh/userrecon" target="_blank">User Recon</a><br>
 <a href="https://osintops.com/let-me-find-your-username/ " target="_blank">OSINTOps: Let me Find your Username</a>
 <br>
 
@@ -158,7 +158,10 @@ permalink: /resources/
 <a href="https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png" target="_blank">Dark Web OSINT Attack Surface</a><br>
 
 <h3>Cryptocurrency</h3>
-<a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
+<a href="https://www.blockchain.com/" target="_blank">Blockchain Explorer</a><br>
+<a href="https://btc.com/" target="_blank">Bitcoin Block Explorer</a><br>
+<a href="https://etherscan.io/" target="_blank">Etherscan Blockchain Explorer</a><br>
+<a href="https://etherchain.org/" target="_blank">Etherchain Blockchain Explorer</a><br>
 
 <h3>OSINT Programming and Automation</h3>
 <a href="https://www.secjuice.com/osint-bookmarklet-tools/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
