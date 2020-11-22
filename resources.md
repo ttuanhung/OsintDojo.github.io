@@ -51,16 +51,35 @@ permalink: /resources/
 <a href="https://knowem.com/checkusernames.php" target="_blank">KnowEm Username Check</a><br>
 <a href="https://www.namecheckr.com/" target="_blank">Name Checkr</a><br>
 <a href="https://github.com/issamelferkh/userrecon" target="_blank">User Recon</a><br>
-<a href="https://osintops.com/let-me-find-your-username/ " target="_blank">OSINTOps: Let me Find your Username</a>
+<a href="https://osintops.com/let-me-find-your-username/ " target="_blank">OSINT Ops: Let me Find your Username</a>
 <br>
 
 <h3>Email</h3>
 <a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPwned</a><br>
 <a href="https://dehashed.com/" target="_blank">Dehashed</a><br>
+<a href="https://tools.epieos.com/google-account.php" target="_blank">Epieos Google Account Tool</a><br>
+<a href="https://centralops.net/co/emaildossier.aspx" target="_blank">CentralOPS Email Tool</a><br>
+<a href="https://thatsthem.com/reverse-email-lookup" target="_blank">ThatsThem Email Lookup</a><br>
+<a href="https://mxtoolbox.com/EmailHeaders.aspx" target="_blank">MXToolbox Email Headers Tool</a><br>
+
+<h3>Phone</h3>
+<a href="https://thatsthem.com/reverse-phone-lookup" target="_blank">ThatsThem Phone Search</a><br>
+<a href="https://tools.epieos.com/phone.php " target="_blank">Epieos Phone Tool</a><br>
+
+<h3>IP</h3>
+<a href="https://www.shodan.io/" target="_blank">Shodan</a><br>
+<a href="https://thatsthem.com/reverse-ip-lookup" target="_blank">ThatsThem IP Lookup</a><br>
+<a href="https://www.ipvoid.com/" target="_blank">IP Void</a><br>
+<a href="https://spyse.com/" target="_blank">Spyse</a><br>
+<a href="https://metrics.torproject.org/exonerator.html" target="_blank">Tor Exonerator</a><br>
+<a href="https://www.ipfingerprints.com/" target="_blank">IP Fingerprints</a><br>
+<a href="https://www.infobyip.com/" target="_blank">Info by IP</a><br>
+<a href="https://www.liveipmap.com/" target="_blank">Live IP Map</a><br>
 
 <h3>Person Searches</h3>
 <a href="https://www.melissa.com/v2/lookups/" target="_blank">Melissa Lookups</a><br>
 <a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
+<a href="https://thatsthem.com/people-search" target="_blank">ThatsThem People Search</a><br>
 
 <h3>Websites and Domains</h3>
 <a href="https://www.shodan.io/" target="_blank">Shodan</a><br>
@@ -115,7 +134,7 @@ permalink: /resources/
 
 <h3>LinkedIn</h3>
 <a href="https://www.secjuice.com/linkedin-osint-part-1/" target="_blank">LinkedIn OSINT Techniques: Part I</a><br>
-<a href="https://www.secjuice.com/linkedin-osint-techniques-part-ii/" target="_blank">LinkedIn OSINT Techniques (II)</a><br>
+<a href="https://www.secjuice.com/linkedin-osint-techniques-part-ii/" target="_blank">LinkedIn OSINT Techniques: Part II</a><br>
 <a href="https://www.osintme.com/index.php/2020/04/26/how-to-conduct-osint-on-linkedin/" target="_blank">How to conduct OSINT on Linkedin</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Attack%20Surface.pdf" target="_blank">LinkedIn OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/LinkedIn/Bookmarklet%20Tools" target="_blank">LinkedIn OSINT Bookmarket Tools</a><br>
@@ -152,8 +171,8 @@ permalink: /resources/
 
 <h3>Dark Web</h3>
 <a href="https://dark.fail/" target="_blank">Dark.Fail</a><br>
+<a href="https://ahmia.fi/" target="_blank">Ahmia Search</a><br>
 <a href="http://reconponydonugup.onion" target="_blank">Recon (TOR)</a><br>
-<a href="https://ahmia.fi/" target="_blank">RAhmia Search</a><br>
 <a href="http://xmh57jrzrnw6insl.onion" target="_blank">Torch Search (TOR)</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png" target="_blank">Dark Web OSINT Attack Surface</a><br>
 
@@ -164,14 +183,20 @@ permalink: /resources/
 <a href="https://etherchain.org/" target="_blank">Etherchain Blockchain Explorer</a><br>
 
 <h3>OSINT Programming and Automation</h3>
-<a href="https://www.secjuice.com/osint-bookmarklet-tools/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p1)</a><br>
-<a href="https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii/" target="_blank">Make Your Own Custom OSINT Bookmarklets (p2)</a><br>
+<a href="https://www.secjuice.com/osint-bookmarklet-tools/" target="_blank">Make Your Own Custom OSINT Bookmarklets: Part I</a><br>
+<a href="https://www.secjuice.com/make-your-own-custom-osint-bookmarklet-tools-part-ii/" target="_blank">Make Your Own Custom OSINT Bookmarklets: Part II</a><br>
 <a href="https://www.secjuice.com/osint-username-search-tool/" target="_blank">Build An OSINT Username Search Tool Using SULTAN</a><br>
 <a href="https://jakecreps.com/2018/12/07/python-future/" target="_blank">Python is the Future of OSINT</a><br>
 
 <h3>OSINT Employment</h3>
 <a href="https://www.secjuice.com/landing-your-first-job-in-osint/" target="_blank">Getting Your First job in OSINT</a><br>
 <a href="https://osintcurio.us/2020/04/01/how-to-land-an-osint-job/" target="_blank">How to land an OSINT job</a><br>
+
+<h3>OSINT Communities</h3>
+<a href="https://tracelabs.slack.com/join/shared_invite/zt-izlqq952-BEz3pniRLvFpWoJdSnx0DA#/" target="_blank">Tracelabs Slack</a><br>
+<a href="https://discord.gg/infosec" target="_blank">The Many Hats Club Discord</a><br>
+<a href="https://t.co/MlVdqtQOJ0?amp=1" target="_blank">SearchLight Discord</a><br>
+<a href="https://www.reddit.com/r/OSINT/" target="_blank">OSINT Subreddit</a><br>
 
 <h3>Other Resources</h3>
 <a href="https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/" target="_blank">CyberSec Stus Big List of Resources</a><br>
@@ -188,6 +213,7 @@ permalink: /resources/
 <a href="https://www.secjuice.com/the-7-deadly-sins-of-osint/" target="_blank">The 7 Deadly Sins of OSINT</a><br>
 <a href="https://www.secjuice.com/street-art-in-osint-investigations/" target="_blank">Leveraging Street Art in OSINT Investigations</a><br>
 <a href="https://www.reconvillage.org/" target="_blank">Recon Village</a><br>
+<a href="https://www.aware-online.com/" target="_blank">Aware Online</a><br>
 
 <hr>
 <center><h2>OSINT Videos or Podcasts</h2></center>
