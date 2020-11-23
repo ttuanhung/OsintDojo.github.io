@@ -18,6 +18,9 @@ permalink: /faqs/
 
 <p><b>To rank up:</b> Each level within the OSINT Dojo contains a list of requirements needed in order to achieve that level and obtain the associated badge. In order to achieve the next rank, you must successfully complete all of the rank requirements and submit proof of completion to the OSINT Dojo via a rank up <a href="https://www.osintdojo.com/rankuprequest/">request</a>. Also make sure that you have spent the minimum amount of time in your current level before submitting your documentation to rank up to the next level. </p>
 
+<h3>What data does the OSINT Dojo collect?</h3>
+<p>In order to supply users with their digital badges, the OSINT Dojo will require an email address. Be aware that the OSINT Dojo utilizes Badgr for granting digital badges as well as Google forms for gathering information from users. These platforms may collect and process additional information that is not shared with the OSINT Dojo. See our full Privacy Policy <a href="https://www.osintdojo.com/privacy/">here</a>. </p>
+
 <h3>What is the Code of Conduct?</h3>
 <p> You've likely heard the phrase "OSINT for good", and that is what we want to strive for. The OSINT Dojo will not tolerate users engaging in bullying, harassment, stalking, or other behavior which breaks any laws, crosses ethical boundaries, or makes other users feel unwelcome. Users found to be engaging in problematic or malicious behavior are subject to badge forfeiture and their removal from the program.</p>
 
