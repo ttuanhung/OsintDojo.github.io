@@ -18,7 +18,6 @@ While using our Site, we may ask you to provide us with certain personally ident
 <h3>Log Data</h3>
 
 Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Forms and Badgr that collect, monitor and analyze this data so that we may award badges to our users who have submitted a rank up request.
- for businesses that may contact users via email (email newsletters) or other methods. For the full disclosure section, create your own Privacy Policy.
 
 <h3>Cookies</h3>
 
