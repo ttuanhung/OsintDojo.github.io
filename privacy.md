@@ -27,10 +27,14 @@ Cookies are files with small amount of data, which may include an anonymous uniq
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, any potential breach of our data will be publicly disclosed within 72 hours of awareness of the occurrence.
 
+<h3>User Rights</h3>
+
+Users may request a copy of the data collected by the Site as well as the removal of any data collected by the Site, though they should be aware that this would require the user to forfeit their Badgr badge if any have been awarded. 
+
 <h3>Changes To This Privacy Policy</h3>
 
 This Privacy Policy is effective as of 11/22/2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
 <h3>Contact Us</h3>
 
-If you have any questions about this Privacy Policy or would like to request removal of information, please contact us at OSINTDojo@protonmail.ch
+If you have any questions about this Privacy Policy or would like to request a copy of or removal of information, please contact us at OSINTDojo@protonmail.ch
