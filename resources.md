@@ -12,6 +12,7 @@ permalink: /resources/
 <h3>Article Publishing Platforms</h3>
 <a href="https://www.secjuice.com/join-secjuice-writing-team/" target="_blank">Secjuice</a> <br>
 <a href="https://about.medium.com/creators/" target="_blank">Medium</a><br>
+<a href="https://www.blogger.com/" target="_blank">Blogger</a><br>
 
 <h3>Video Streaming Platforms</h3>
 <a href="https://www.twitch.tv/" target="_blank">Twitch</a><br>
@@ -80,10 +81,13 @@ permalink: /resources/
 <a href="https://www.melissa.com/v2/lookups/" target="_blank">Melissa Lookups</a><br>
 <a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
 <a href="https://thatsthem.com/people-search" target="_blank">ThatsThem People Search</a><br>
+<a href="https://www.classmates.com/" target="_blank">Classmates</a><br>
 
 <h3>Websites and Domains</h3>
 <a href="https://www.shodan.io/" target="_blank">Shodan</a><br>
+<a href="https://github.com/humblelad/Shodan-Dorks " target="_blank">Shodan Dorks</a><br>
 <a href="https://www.whoxy.com/" target="_blank">Whoxy</a><br>
+<a href="https://leakix.net/" target="_blank">LeakIX</a><br>
 <a href="https://whatismyipaddress.com/" target="_blank">WhatIsMyIPAddress</a><br>
 <a href="http://www.visualsitemapper.com/" target="_blank">Virtual Site Mapper</a><br>
 <a href="https://archive.org/" target="_blank">Wayback Machine</a><br>
@@ -146,14 +150,36 @@ permalink: /resources/
 <a href="https://github.com/sinwindie/OSINT/blob/master/TikTok/TikTok%20OSINT%20Attack%20Surface.png" target="_blank">TikTok OSINT Attack Surface</a><br>
 
 <h3>Twitter</h3>
+<a href="https://tweetdeck.twitter.com/" target="_blank">Tweetdeck</a><br>
+<a href="https://tweetbeaver.com/ " target="_blank">Tweet Beaver</a><br>
+<a href="https://foller.me/" target="_blank">Foller.me</a><br>
+<a href="http://spoonbill.io/" target="_blank">Spoonbill</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.png" target="_blank">Twiter OSINT Attack Surface</a><br>
 
 <h3>Youtube</h3>
-<a href="hhttps://youtube-dl.org/" target="_blank">Youtube DL</a><br>
+<a href="https://youtube-dl.org/" target="_blank">Youtube DL</a><br>
 <a href="https://citizenevidence.amnestyusa.org/" target="_blank">Youtube DataViewer</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.png" target="_blank">Youtube OSINT Attack Surfacep</a><br>
 <a href="https://savesubs.com/" target="_blank">SaveSubs</a><br>
 <a href="https://downsub.com/" target="_blank">DownSub</a><br>
+
+<h3>Transportation</h3>
+<a href="https://www.skyscanner.net/" target="_blank">Skyscanner</a><br>
+<a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4 " target="_blank">Marine Traffic</a><br>
+<a href="https://www.vesselfinder.com/ " target="_blank">Vessel Finder</a><br>
+<a href="https://www.openrailwaymap.org/ " target="_blank">Open Railway Map</a><br>
+
+<h3>Other Specialty Searches</h3>
+<a href="https://www.exploit-db.com/google-hacking-database" target="_blank">Google Dorks Database</a><br>
+<a href="https://archive.org/" target="_blank">Archive.org</a><br>
+<a href="http://archive.today" target="_blank">Archive.Today</a><br>
+<a href="https://www.acronymfinder.com/" target="_blank">Acronym Finder</a><br>
+<a href="https://boardreader.com/" target="_blank">Boardreader</a><br>
+<a href="https://searchcode.com/" target="_blank">SearchCode</a><br>
+<a href="http://useragentstring.com/pages/useragentstring.php" target="_blank">UserAgent String Search</a><br>
+<a href="https://www.loc.gov/search/" target="_blank">Library of Congress</a><br>
+<a href="https://cityprotect.com/map/list/agencies" target="_blank">City Protect Agencies List</a><br>
+<a href="http://www.gutenberg.org/" target="_blank">Project Gutenberg</a><br>
 
 <h3>Other Platforms</h3>
 <a href="https://map.snapchat.com/" target="_blank">Snap Map</a><br>
@@ -172,8 +198,9 @@ permalink: /resources/
 <h3>Dark Web</h3>
 <a href="https://dark.fail/" target="_blank">Dark.Fail</a><br>
 <a href="https://ahmia.fi/" target="_blank">Ahmia Search</a><br>
-<a href="http://reconponydonugup.onion" target="_blank">Recon (TOR)</a><br>
+<a href="http://reconponydonugup.onion" target="_blank">Recon Search (TOR)</a><br>
 <a href="http://xmh57jrzrnw6insl.onion" target="_blank">Torch Search (TOR)</a><br>
+<a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page" target="_blank">The Hidden Wiki</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png" target="_blank">Dark Web OSINT Attack Surface</a><br>
 
 <h3>Cryptocurrency</h3>
@@ -214,6 +241,7 @@ permalink: /resources/
 <a href="https://www.secjuice.com/street-art-in-osint-investigations/" target="_blank">Leveraging Street Art in OSINT Investigations</a><br>
 <a href="https://www.reconvillage.org/" target="_blank">Recon Village</a><br>
 <a href="https://www.aware-online.com/" target="_blank">Aware Online</a><br>
+<a href="https://dfirdiva.com/" target="_blank">DFIR Diva Blog</a><br>
 
 <hr>
 <center><h2>OSINT Videos or Podcasts</h2></center>
@@ -251,6 +279,7 @@ permalink: /resources/
 <a href="https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/" target="_blank">SANS SEC487</a><br>
 <a href="https://academy.osintcombine.com/" target="_blank">OSINT Combine Academy</a><br>
 <a href="https://www.toddington.com/osint-training/" target="_blank">Toddington OSINT Training</a><br>
+<a href="https://osint-i1.com/courses/" target="_blank">i1 OSINT Training</a><br>
 
 
 
