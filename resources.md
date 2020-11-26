@@ -171,8 +171,6 @@ permalink: /resources/
 
 <h3>Other Specialty Searches</h3>
 <a href="https://www.exploit-db.com/google-hacking-database" target="_blank">Google Dorks Database</a><br>
-<a href="https://archive.org/" target="_blank">Archive.org</a><br>
-<a href="http://archive.today" target="_blank">Archive.Today</a><br>
 <a href="https://www.acronymfinder.com/" target="_blank">Acronym Finder</a><br>
 <a href="https://boardreader.com/" target="_blank">Boardreader</a><br>
 <a href="https://searchcode.com/" target="_blank">SearchCode</a><br>
