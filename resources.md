@@ -79,7 +79,7 @@ permalink: /resources/
 <a href="https://archive.org/" target="_blank">Wayback Machine</a><br>
 <a href="https://whatismyipaddress.com/" target="_blank">WhatIsMyIPAddress</a><br>
 <a href="https://www.whoxy.com/" target="_blank">Whoxy</a><br>
-<a href="https://wigle.net target="_blank">Wigle.net</a><br>
+<a href="https://wigle.net" target="_blank">Wigle.net</a><br>
 
 <h3>Email</h3>
 <a href="https://centralops.net/co/emaildossier.aspx" target="_blank">CentralOPS Email Tool</a><br>
