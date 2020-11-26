@@ -15,7 +15,7 @@ permalink: /resources/
 <a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/" target="_blank">OSINT & The Intelligence Cycle Part II</a><br>
 <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><br> 
 <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iv-processing-raw-intelligence/ " target="_blank">OSINT & The Intelligence Cycle Part IV</a><br>
-<a href="https://www.exploit-db.com/google-hacking-database" target="_blank">Google Dorks Database</a><br>
+
 
 <h3>Article Publishing Platforms</h3>
 <a href="https://www.secjuice.com/join-secjuice-writing-team/" target="_blank">Secjuice</a> <br>
@@ -185,6 +185,7 @@ permalink: /resources/
 <a href="https://www.acronymfinder.com/" target="_blank">Acronym Finder</a><br>
 <a href="https://boardreader.com/" target="_blank">Boardreader</a><br>
 <a href="https://cityprotect.com/map/list/agencies" target="_blank">City Protect Agencies List</a><br>
+<a href="https://www.exploit-db.com/google-hacking-database" target="_blank">Google Dorks Database</a><br>
 <a href="https://www.loc.gov/search/" target="_blank">Library of Congress</a><br>
 <a href="http://www.gutenberg.org/" target="_blank">Project Gutenberg</a><br>
 <a href="https://searchcode.com/" target="_blank">SearchCode</a><br>
