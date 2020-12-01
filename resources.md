@@ -95,15 +95,18 @@ permalink: /resources/
 <a href="https://www.secjuice.com/investigate-gab-users-osint/" target="_blank">Gab OSINT Techniques</a><br>
 
 <h3>Geolocation</h3>
+<a href="https://www.allareacodes.com/" target="_blank">All Area Codes</a><br>
 <a href="https://www.irongeek.com/i.php?page=videos/circlecitycon2018/circle-city-con-50-304-a-very-particular-set-of-skills-geolocation-techniques-for-osint-and-investigation-chris-kindig" target="_blank">A Very Particular Set of Skills</a><br>
 <a href="https://www.earthcam.com/" target="_blank">EarthCam</a><br>
 <a href="https://www.fotw.info/flags/index.html" target="_blank">Flags of the World</a><br>
 <a href="https://www.geoguessr.com/" target="_blank">Geoguesser</a><br>
 <a href="https://www.google.com/maps" target="_blank">Google Maps and Streetview</a><br>
+<a href="https://en.wikipedia.org/wiki/Coverage_of_Google_Street_View" target="_blank">Google Streetview Coverage</a><br>
 <a href="https://www.iec.ch/world-plugs" target="_blank">IEC World Electrical Plugs</a><br>
 <a href="https://www.drivingdirectionsandmaps.com/map-of-the-left-right-driving-countries/" target="_blank">Left vs Right Driving Countries</a><br>
 <a href="https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts" target="_blank">Map of Alphabets</a><br>
 <a href="https://wikimapia.org/" target="_blank">Wikimapia</a><br>
+<a href="https://worldcam.eu/" target="_blank">WorldCam</a><br>
 
 <h3>Images</h3>
 <a href="http://www.baidu.com/" target="_blank">Baidu Reverse Image Search</a><br>
@@ -148,10 +151,15 @@ permalink: /resources/
 <h3>Person Searches</h3>
 <a href="https://www.192.com/" target="_blank">192.com (UK)</a><br>
 <a href="https://www.classmates.com/" target="_blank">Classmates</a><br>
+<a href="https://eumostwanted.eu/" target="_blank">Europol Most Wanted</a><br>
 <a href="https://www.findagrave.com/" target="_blank">Find a Grave</a><br>
+<a href="https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices" target="_blank">Interpol Red Notice Search</a><br>
+<a href="https://www.interpol.int/en/How-we-work/Notices/View-Yellow-Notices" target="_blank">Interpol Yellow Notice Search</a><br>
 <a href="https://www.melissa.com/v2/lookups/" target="_blank">Melissa Lookups</a><br>
 <a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
 <a href="https://thatsthem.com/people-search" target="_blank">ThatsThem People Search</a><br>
+<a href="https://www.bop.gov/inmateloc/" target="_blank">US Federal Bureau of Prisons Inmate Search</a><br>
+<a href="https://www.nsopw.gov/" target="_blank">US DOJ Sex Offender Public Search</a><br>
 
 <h3>Phone</h3>
 <a href="https://tools.epieos.com/phone.php " target="_blank">Epieos Phone Tool</a><br>
@@ -217,12 +225,14 @@ permalink: /resources/
 
 <h3>Transportation</h3>
 <a href="https://www.airliners.net/" target="_blank">Airliners Database</a><br>
-<a href="https://www.autoevolution.com/cars/" target="_blank">Autoevolution Car Database/a><br>
+<a href="https://airportwebcams.net/" target="_blank">Airport Webcams</a><br>
+<a href="https://www.autoevolution.com/cars/" target="_blank">Autoevolution Car Database</a><br>
 <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank">Marine Traffic</a><br>
 <a href="https://www.openrailwaymap.org/" target="_blank">Open Railway Map</a><br>
 <a href="https://www.skyscanner.net/" target="_blank">Skyscanner</a><br>
 <a href="https://www.vesselfinder.com/" target="_blank">Vessel Finder</a><br>
 <a href="https://www.vinaudit.com" target="_blank">Vin Audit</a><br>
+<a href="http://www.worldlicenseplates.com/" target="_blank">World License Plates</a><br>
 
 <h3>Tumblr</h3>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Tumblr/Tumblr%20OSINT%20Attack%20Surface.pdf" target="_blank">Tumblr OSINT Attack Surface</a><br>
