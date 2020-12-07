@@ -21,6 +21,7 @@ permalink: /resources/
 <a href="https://www.secjuice.com/join-secjuice-writing-team/" target="_blank">Secjuice</a> <br>
 <a href="https://www.blogger.com/" target="_blank">Blogger</a><br>
 <a href="https://about.medium.com/creators/" target="_blank">Medium</a><br>
+<a href="https://www.tracelabs.org/initiatives/trace-labs-call-for-content" target="_blank">Trace Labs Call for Content</a><br>
 
 <h3>OSINT CTFs and Quizzes</h3>
 <a href="https://ctf.cybersoc.wales/" target="_blank">Cyber Detective CTF (CTF)</a><br>
@@ -100,13 +101,23 @@ permalink: /resources/
 <a href="https://www.earthcam.com/" target="_blank">EarthCam</a><br>
 <a href="https://www.fotw.info/flags/index.html" target="_blank">Flags of the World</a><br>
 <a href="https://www.geoguessr.com/" target="_blank">Geoguesser</a><br>
+<a href="https://medium.com/@bearhunt38/geo-locating-photos-with-osm-overpass-api-10ed35b95f11" target="_blank">Geolocating photo's with OSM overpass API</a><br>
 <a href="https://www.google.com/maps" target="_blank">Google Maps and Streetview</a><br>
 <a href="https://en.wikipedia.org/wiki/Coverage_of_Google_Street_View" target="_blank">Google Streetview Coverage</a><br>
 <a href="https://www.iec.ch/world-plugs" target="_blank">IEC World Electrical Plugs</a><br>
+<a href="http://www.insecam.org/" target="_blank">Insecam</a><br>
 <a href="https://www.drivingdirectionsandmaps.com/map-of-the-left-right-driving-countries/" target="_blank">Left vs Right Driving Countries</a><br>
 <a href="https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts" target="_blank">Map of Alphabets</a><br>
+<a href="https://www.mooncalc.org/#/49.495,11.073,3/2020.12.06/18:49/1/3" target="_blank">MoonCalc</a><br>
+<a href="https://wiki.openstreetmap.org/wiki/Search_engines" target="_blank">Open Street Map Search Engines</a><br>
+<a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a><br>
+<a href="https://www.redfin.com/" target="_blank">Redfin</a><br>
+<a href="http://shadowcalculator.eu/#" target="_blank">Shadow Calculator</a><br>
+<a href="https://www.suncalc.org/#/40.1789,-3.5156,3/2020.12.06/18:54/1/3" target="_blank">SunCalc</a><br>
+<a href="https://www.trulia.com/" target="_blank">Trulia</a><br>
 <a href="https://wikimapia.org/" target="_blank">Wikimapia</a><br>
 <a href="https://worldcam.eu/" target="_blank">WorldCam</a><br>
+<a href="https://www.zillow.com/" target="_blank">Zillow</a><br>
 
 <h3>Images</h3>
 <a href="http://www.baidu.com/" target="_blank">Baidu Reverse Image Search</a><br>
@@ -169,6 +180,7 @@ permalink: /resources/
 <a href="https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf" target="_blank">Pinterest OSINT Attack Surface</a><br>
 
 <h3>Pokémon GO</h3>
+<a href="https://www.pogomap.info/" target="_blank">PogoMap</a><br>
 <a href="https://pokelytics.com/?" target="_blank">Pokelytics</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/PokemonGo/PokemonGo%20OSINT%20Attack%20Surface.pdf" target="_blank">Pokémon GO OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/PokemonGo/Bookmarklet%20Tools" target="_blank">Pokémon GO OSINT Bookmarklet Tools</a><br>
@@ -218,6 +230,7 @@ permalink: /resources/
 
 <h3>Twitter</h3>
 <a href="https://foller.me/" target="_blank">Foller.me</a><br>
+<a href="https://nitter.net/" target="_blank">Nitter</a><br>
 <a href="https://tweetbeaver.com/ " target="_blank">Tweet Beaver</a><br>
 <a href="https://tweetdeck.twitter.com/" target="_blank">Tweetdeck</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.png" target="_blank">Twitter OSINT Attack Surface</a><br>
@@ -227,6 +240,8 @@ permalink: /resources/
 <a href="https://www.airliners.net/" target="_blank">Airliners Database</a><br>
 <a href="https://airportwebcams.net/" target="_blank">Airport Webcams</a><br>
 <a href="https://www.autoevolution.com/cars/" target="_blank">Autoevolution Car Database</a><br>
+<a href="https://findbyplate.com/" target="_blank">Find By Plate</a><br>
+<a href="https://www.nbi-ngf.ch/en/nvb/auskunftsstelle/kennzeichenanfragen" target="_blank">License Plate Checking (Switzerland)</a><br>
 <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank">Marine Traffic</a><br>
 <a href="https://www.openrailwaymap.org/" target="_blank">Open Railway Map</a><br>
 <a href="https://www.skyscanner.net/" target="_blank">Skyscanner</a><br>
@@ -260,6 +275,7 @@ permalink: /resources/
 <a href="https://savesubs.com/" target="_blank">SaveSubs</a><br>
 <a href="https://citizenevidence.amnestyusa.org/" target="_blank">Youtube DataViewer</a><br>
 <a href="https://youtube-dl.org/" target="_blank">Youtube DL</a><br>
+<a href="https://mattw.io/youtube-metadata/" target="_blank">Youtube Metadata</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.png" target="_blank">Youtube OSINT Attack Surfacep</a><br>
 
 <hr>
@@ -267,7 +283,9 @@ permalink: /resources/
 <hr>
 
 <h3>Communities</h3>
+<a href="https://discord.com/invite/uRnBwad" target="_blank">OSINT Editor Discord</a><br>
 <a href="https://www.reddit.com/r/OSINT/" target="_blank">OSINT Subreddit</a><br>
+<a href="https://osint.team/home" target="_blank">OSINT.Team</a><br>
 <a href="https://discord.com/invite/projectowl" target="_blank">Project Owl Discord</a><br>
 <a href="https://t.co/MlVdqtQOJ0?amp=1" target="_blank">SearchLight Discord</a><br>
 <a href="https://discord.gg/infosec" target="_blank">The Many Hats Club Discord</a><br>
@@ -306,6 +324,7 @@ permalink: /resources/
 <a href="https://www.reconvillage.org/" target="_blank">Recon Village</a><br>
 <a href="https://www.aware-online.com/" target="_blank">Aware Online</a><br>
 <a href="https://dfirdiva.com/" target="_blank">DFIR Diva Blog</a><br>
+<a href="https://start.me/p/L1rEYQ/osint4all" target="_blank">OSINT4All Start Me</a><br>
 <a href="https://www.youtube.com/channel/UCQkvPHuHuDWiyLYkJPGBxiQ" target="_blank">0x4rkØ Youtube Channel</a><br>
 
 <h3>Podcasts</h3>
@@ -322,5 +341,6 @@ permalink: /resources/
 <h3>Paid</h3>
 <a href="https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/" target="_blank">SANS SEC487</a><br>
 <a href="https://academy.osintcombine.com/" target="_blank">OSINT Combine Academy</a><br>
+<a href="https://www.theosintion.com/courses/schedule/" target="_blank">OSINTION Training</a><br>
 <a href="https://www.toddington.com/osint-training/" target="_blank">Toddington OSINT Training</a><br>
 <a href="https://osint-i1.com/courses/" target="_blank">i1 OSINT Training</a><br>
