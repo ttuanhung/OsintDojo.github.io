@@ -15,6 +15,11 @@ permalink: /resources/
 <a href="https://www.secjuice.com/osint-and-the-intelligence-cycle-part-ii-collection/" target="_blank">OSINT & The Intelligence Cycle Part II</a><br>
 <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iii-processing-raw-intelligence/" target="_blank">OSINT & The Intelligence Cycle Part III</a><br> 
 <a href="https://www.secjuice.com/osint-the-intelligence-cycle-part-iv-processing-raw-intelligence/ " target="_blank">OSINT & The Intelligence Cycle Part IV</a><br>
+<a href="https://www.ohchr.org/Documents/Publications/OHCHR_BerkeleyProtocol.pdf" target="_blank">UN OHCHR OSINT Guide</a> <br>
+<a href="https://datajournalism.com/read/handbook/verification-1" target="_blank">Verification Handbook I</a> <br>
+<a href="https://datajournalism.com/read/handbook/verification-2" target="_blank">Verification Handbook II</a> <br>
+<a href="https://datajournalism.com/read/handbook/verification-3" target="_blank">Verification Handbook III</a> <br>
+
 
 
 <h3>Article Publishing Platforms</h3>
@@ -67,6 +72,7 @@ permalink: /resources/
 <a href="http://xmh57jrzrnw6insl.onion" target="_blank">Torch Search (TOR)</a><br>
 
 <h3>Domains, Websites, and Networking</h3>
+<a href="https://analyzeid.com/" target="_blank">AnalyzeID</a><br>
 <a href="http://archive.is/" target="_blank">Archive.is</a><br>
 <a href="https://centralops.net/asp/co/DomainCheck.vbs.asp" target="_blank">Central Ops Domain Check</a><br>
 <a href="https://leakix.net/" target="_blank">LeakIX</a><br>
@@ -104,11 +110,14 @@ permalink: /resources/
 <a href="https://medium.com/@bearhunt38/geo-locating-photos-with-osm-overpass-api-10ed35b95f11" target="_blank">Geolocating photo's with OSM overpass API</a><br>
 <a href="https://www.google.com/maps" target="_blank">Google Maps and Streetview</a><br>
 <a href="https://en.wikipedia.org/wiki/Coverage_of_Google_Street_View" target="_blank">Google Streetview Coverage</a><br>
+<a href="https://theweek.com/articles/617776/how-identify-language-glance" target="_blank">How to Identify Lanugages I</a><br>
+<a href="https://theweek.com/articles/620397/how-identify-asian-african-middle-eastern-alphabets-glance" target="_blank">How to Identify Lanugages II</a><br>
 <a href="https://www.iec.ch/world-plugs" target="_blank">IEC World Electrical Plugs</a><br>
 <a href="http://www.insecam.org/" target="_blank">Insecam</a><br>
 <a href="https://www.drivingdirectionsandmaps.com/map-of-the-left-right-driving-countries/" target="_blank">Left vs Right Driving Countries</a><br>
 <a href="https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts" target="_blank">Map of Alphabets</a><br>
 <a href="https://www.mooncalc.org/#/49.495,11.073,3/2020.12.06/18:49/1/3" target="_blank">MoonCalc</a><br>
+<a href="https://www.n2yo.com/" target="_blank">N2YO Satellite Tracker</a><br>
 <a href="https://wiki.openstreetmap.org/wiki/Search_engines" target="_blank">Open Street Map Search Engines</a><br>
 <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo</a><br>
 <a href="https://www.redfin.com/" target="_blank">Redfin</a><br>
@@ -161,13 +170,15 @@ permalink: /resources/
 
 <h3>Person Searches</h3>
 <a href="https://www.192.com/" target="_blank">192.com (UK)</a><br>
+<a href="https://www.canada411.ca/" target="_blank">Canada411 (CA)/a><br>
 <a href="https://www.classmates.com/" target="_blank">Classmates</a><br>
 <a href="https://eumostwanted.eu/" target="_blank">Europol Most Wanted</a><br>
 <a href="https://www.findagrave.com/" target="_blank">Find a Grave</a><br>
 <a href="https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices" target="_blank">Interpol Red Notice Search</a><br>
 <a href="https://www.interpol.int/en/How-we-work/Notices/View-Yellow-Notices" target="_blank">Interpol Yellow Notice Search</a><br>
 <a href="https://www.melissa.com/v2/lookups/" target="_blank">Melissa Lookups</a><br>
-<a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
+  <a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
+<a href="https://www.netcredit.com/blog/most-common-name-country/" target="_blank">Most Common Name by Country</a><br>
 <a href="https://thatsthem.com/people-search" target="_blank">ThatsThem People Search</a><br>
 <a href="https://www.bop.gov/inmateloc/" target="_blank">US Federal Bureau of Prisons Inmate Search</a><br>
 <a href="https://www.nsopw.gov/" target="_blank">US DOJ Sex Offender Public Search</a><br>
@@ -206,9 +217,12 @@ permalink: /resources/
 <a href="https://boardreader.com/" target="_blank">Boardreader</a><br>
 <a href="https://cityprotect.com/map/list/agencies" target="_blank">City Protect Agencies List</a><br>
 <a href="https://www.exploit-db.com/google-hacking-database" target="_blank">Google Dorks Database</a><br>
+<a href="https://www.judyrecords.com/" target="_blank">Judy Records (US Court Cases)</a><br>
 <a href="https://www.loc.gov/search/" target="_blank">Library of Congress</a><br>
 <a href="http://www.gutenberg.org/" target="_blank">Project Gutenberg</a><br>
+<a href="https://intelx.io/tools" target="_blank">IntelX Tool Searches</a><br>
 <a href="https://searchcode.com/" target="_blank">SearchCode</a><br>
+<a href="http://www.searchenginesoftheworld.com/" target="_blank">Search Engines of the World</a><br>
 <a href="http://useragentstring.com/pages/useragentstring.php" target="_blank">UserAgent String Search</a><br>
 
 <h3>Snapchat</h3>
