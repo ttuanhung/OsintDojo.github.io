@@ -20,8 +20,6 @@ permalink: /resources/
 <a href="https://datajournalism.com/read/handbook/verification-2" target="_blank">Verification Handbook II</a> <br>
 <a href="https://datajournalism.com/read/handbook/verification-3" target="_blank">Verification Handbook III</a> <br>
 
-
-
 <h3>Article Publishing Platforms</h3>
 <a href="https://www.secjuice.com/join-secjuice-writing-team/" target="_blank">Secjuice</a> <br>
 <a href="https://www.blogger.com/" target="_blank">Blogger</a><br>
@@ -33,6 +31,10 @@ permalink: /resources/
 <a href="https://twitter.com/quiztime" target="_blank">Quiztime Crew (QUIZ)</a><br>
 <a href="https://twitter.com/Sector035/status/1211038518635614208" target="_blank">Sector035's OSINT Quiz (QUIZ)</a><br>
 <a href="https://www.tracelabs.org/initiatives/search-party" target="_blank">TraceLabs CTFs (CTF)</a><br>
+<a href="https://tryhackme.com/room/geolocatingimages" target="_blank">TryHackMe Geolocating Images Room (CTF)</a><br>
+<a href="https://tryhackme.com/room/googledorking" target="_blank">TryHackMe Google Dorking Images Room (CTF)</a><br>
+<a href="https://tryhackme.com/room/ohsint" target="_blank">TryHackMe OhSINT Room (CTF)</a><br>
+<a href="https://tryhackme.com/room/searchlightosint" target="_blank">TryHackMe SearchLight Room (CTF)</a><br>
 
 <h3>Video Streaming Platforms</h3>
 <a href="https://www.twitch.tv/" target="_blank">Twitch</a><br>
@@ -54,7 +56,11 @@ permalink: /resources/
 
 <h3>Collection Tools</h3>
 <a href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=en" target="_blank">FireShot Addon</a><br>
+<a href="https://github.com/Shandymen/OSINT_Tools/blob/master/HashScan.py " target="_blank">HashScan</a><br>
+<a href="https://github.com/chriswmorris/Metaforge" target="_blank">Metaforge</a><br>
 <a href="http://osirtbrowser.com/" target="_blank">Open Source Internet Research Tool</a><br>
+<a href="https://www.spiderfoot.net/hx/" target="_blank">Spiderfoot</a><br>
+<a href="https://github.com/Shandymen/OSINT_Tools/blob/master/TorGrab.py" target="_blank">TorGrab</a><br>
 
 <h3>Cryptocurrency</h3>
 <a href="https://btc.com/" target="_blank">Bitcoin Block Explorer</a><br>
@@ -110,12 +116,9 @@ permalink: /resources/
 <a href="https://medium.com/@bearhunt38/geo-locating-photos-with-osm-overpass-api-10ed35b95f11" target="_blank">Geolocating photo's with OSM overpass API</a><br>
 <a href="https://www.google.com/maps" target="_blank">Google Maps and Streetview</a><br>
 <a href="https://en.wikipedia.org/wiki/Coverage_of_Google_Street_View" target="_blank">Google Streetview Coverage</a><br>
-<a href="https://theweek.com/articles/617776/how-identify-language-glance" target="_blank">How to Identify Lanugages I</a><br>
-<a href="https://theweek.com/articles/620397/how-identify-asian-african-middle-eastern-alphabets-glance" target="_blank">How to Identify Lanugages II</a><br>
 <a href="https://www.iec.ch/world-plugs" target="_blank">IEC World Electrical Plugs</a><br>
 <a href="http://www.insecam.org/" target="_blank">Insecam</a><br>
 <a href="https://www.drivingdirectionsandmaps.com/map-of-the-left-right-driving-countries/" target="_blank">Left vs Right Driving Countries</a><br>
-<a href="https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts" target="_blank">Map of Alphabets</a><br>
 <a href="https://www.mooncalc.org/#/49.495,11.073,3/2020.12.06/18:49/1/3" target="_blank">MoonCalc</a><br>
 <a href="https://www.n2yo.com/" target="_blank">N2YO Satellite Tracker</a><br>
 <a href="https://wiki.openstreetmap.org/wiki/Search_engines" target="_blank">Open Street Map Search Engines</a><br>
@@ -131,6 +134,7 @@ permalink: /resources/
 <h3>Images</h3>
 <a href="http://www.baidu.com/" target="_blank">Baidu Reverse Image Search</a><br>
 <a href="https://www.bing.com/images/trending?form=Z9LH" target="_blank">Bing Reverse Image Search</a><br>
+<a href="https://github.com/beurtschipper/Depix" target="_blank">Depix</a><br>
 <a href="http://fotoforensics.com/" target="_blank">FotoForensics</a><br>
 <a href="https://www.gimp.org/" target="_blank">GIMP</a><br>
 <a href="https://lens.google.com/" target="_blank">Google Lens</a><br>
@@ -139,6 +143,8 @@ permalink: /resources/
 <a href="https://inkscape.org/" target="_blank">Inkscape</a><br>
 <a href="http://exif.regex.info/exif.cgi" target="_blank">Jeffrey's Image Metadata Viewer</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.png" target="_blank">Images OSINT Attack Surface</a><br>
+<a href="https://www.secjuice.com/street-art-in-osint-investigations/" target="_blank">Leveraging Street Art in OSINT Investigations</a><br>
+<a href="https://www.myheritage.com/photo-enhancer" target="_blank">MyHeritage Photo Enhancer</a><br>
 <a href="https://pimeyes.com/en/" target="_blank">PimEyes</a><br>
 <a href="https://www.osintcombine.com/reverse-image-analyzer " target="_blank">OSINT Combine Reverse Image Analyzer</a><br>
 <a href="https://tineye.com/" target="_blank">Tineye</a><br>
@@ -161,12 +167,18 @@ permalink: /resources/
 <a href="https://thatsthem.com/reverse-ip-lookup" target="_blank">ThatsThem IP Lookup</a><br>
 <a href="https://metrics.torproject.org/exonerator.html" target="_blank">Tor Exonerator</a><br>
 
+<h3>Languages</h3>
+<a href="https://theweek.com/articles/617776/how-identify-language-glance" target="_blank">How to Identify Lanugages I</a><br>
+<a href="https://theweek.com/articles/620397/how-identify-asian-african-middle-eastern-alphabets-glance" target="_blank">How to Identify Lanugages II</a><br>
+<a href="https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts" target="_blank">Map of Alphabets</a><br>
+
 <h3>LinkedIn</h3>
 <a href="https://www.osintme.com/index.php/2020/04/26/how-to-conduct-osint-on-linkedin/" target="_blank">How to conduct OSINT on Linkedin</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Attack%20Surface.pdf" target="_blank">LinkedIn OSINT Attack Surface</a><br>
 <a href="https://github.com/sinwindie/OSINT/blob/master/LinkedIn/Bookmarklet%20Tools" target="_blank">LinkedIn OSINT Bookmarket Tools</a><br>
 <a href="https://www.secjuice.com/linkedin-osint-part-1/" target="_blank">LinkedIn OSINT Techniques: Part I</a><br>
 <a href="https://www.secjuice.com/linkedin-osint-techniques-part-ii/" target="_blank">LinkedIn OSINT Techniques: Part II</a><br>
+<a href="https://hatless1der.com/new-linkedin-search-features-mean-new-osint-opportunities/" target="_blank">New LinkedIn Search Features</a><br>
 
 <h3>Person Searches</h3>
 <a href="https://www.192.com/" target="_blank">192.com (UK)</a><br>
@@ -177,7 +189,7 @@ permalink: /resources/
 <a href="https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices" target="_blank">Interpol Red Notice Search</a><br>
 <a href="https://www.interpol.int/en/How-we-work/Notices/View-Yellow-Notices" target="_blank">Interpol Yellow Notice Search</a><br>
 <a href="https://www.melissa.com/v2/lookups/" target="_blank">Melissa Lookups</a><br>
-  <a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
+<a href="https://www.spokeo.com/" target="_blank">Spokeo</a><br>
 <a href="https://www.netcredit.com/blog/most-common-name-country/" target="_blank">Most Common Name by Country</a><br>
 <a href="https://thatsthem.com/people-search" target="_blank">ThatsThem People Search</a><br>
 <a href="https://www.bop.gov/inmateloc/" target="_blank">US Federal Bureau of Prisons Inmate Search</a><br>
@@ -186,6 +198,10 @@ permalink: /resources/
 <h3>Phone</h3>
 <a href="https://tools.epieos.com/phone.php " target="_blank">Epieos Phone Tool</a><br>
 <a href="https://thatsthem.com/reverse-phone-lookup" target="_blank">ThatsThem Phone Search</a><br>
+
+<h3>Parler</h3>
+<a href="https://mktg.skopenow.com/parler-whitepaper-webinar" target="_blank">SkoeNow's Parler Whitepaper and Webinar</a><br>
+<a href="https://www.skopenow.com/news/the-new-digital-meeting-place-what-parler-means-for-osint-investigators" target="_blank">What Parler Means for OSINT Investigators</a><br>
 
 <h3>Pinterest</h3>
 <a href="https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf" target="_blank">Pinterest OSINT Attack Surface</a><br>
@@ -232,6 +248,7 @@ permalink: /resources/
 <h3>Sockpuppets</h3>
 <a href="https://www.secjuice.com/the-art-of-the-sock-osint-humint/" target="_blank">Art of the Sock</a><br>
 <a href="https://jakecreps.com/2018/11/02/sock-puppets/" target="_blank">Creating an Effective Suck Puppet</a><br>
+<a href="https://keyfindings.blog/2020/11/16/if-you-follow-me-ill-osint-you/" target="_blank">If You Follow Me I'll OSINT You</a><br>
 <a href="https://osintcurio.us/2018/12/27/the-puppeteer/" target="_blank">The OSINT Puppeteer</a><br>
 <a href="https://www.uk-osint.net/creatingids.html" target="_blank">UK-OSINT Tools for Sock Puppets</a><br>
 <a href="https://www.youtube.com/watch?v=v8EP6xOcB8M" target="_blank">Welcome to the (Sock) Jungle </a><br>
@@ -296,6 +313,11 @@ permalink: /resources/
 <center><h2>Other OSINT Resources</h2></center>
 <hr>
 
+<h3>Blogs</h3>
+<a href="https://dfirdiva.com/" target="_blank">DFIR Diva Blog</a><br>
+<a href="https://hatless1der.com/" target="_blank">Hatless1der Blog</a><br>
+<a href="https://sector035.nl/" target="_blank">Sector035 Blog</a><br>
+
 <h3>Communities</h3>
 <a href="https://discord.com/invite/uRnBwad" target="_blank">OSINT Editor Discord</a><br>
 <a href="https://www.reddit.com/r/OSINT/" target="_blank">OSINT Subreddit</a><br>
@@ -334,10 +356,8 @@ permalink: /resources/
 <a href="https://www.osinttechniques.com/osint-tools.html" target="_blank">OSINT Techniques: OSINT Tools</a><br>
 <a href="https://www.secjuice.com/account-recovery-osint/" target="_blank">Account Knocking For Fun and OSINT</a><br>
 <a href="https://www.secjuice.com/the-7-deadly-sins-of-osint/" target="_blank">The 7 Deadly Sins of OSINT</a><br>
-<a href="https://www.secjuice.com/street-art-in-osint-investigations/" target="_blank">Leveraging Street Art in OSINT Investigations</a><br>
 <a href="https://www.reconvillage.org/" target="_blank">Recon Village</a><br>
 <a href="https://www.aware-online.com/" target="_blank">Aware Online</a><br>
-<a href="https://dfirdiva.com/" target="_blank">DFIR Diva Blog</a><br>
 <a href="https://start.me/p/L1rEYQ/osint4all" target="_blank">OSINT4All Start Me</a><br>
 <a href="https://www.youtube.com/channel/UCQkvPHuHuDWiyLYkJPGBxiQ" target="_blank">0x4rkØ Youtube Channel</a><br>
 
@@ -353,8 +373,11 @@ permalink: /resources/
 <a href="https://www.nw3c.org/classroom-training/classroom-course-detail/11523 " target="_blank">NW3C: Basic Cyber Investigations (US Gov Only)</a><br>
 
 <h3>Paid</h3>
-<a href="https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/" target="_blank">SANS SEC487</a><br>
+<a href="https://osint-i1.com/courses/" target="_blank">i1 OSINT Training</a><br>
+<a href="https://www.inteltechniques.net/courses/open-source-intelligence" target="_blank">IntelTechniques Training</a><br>
 <a href="https://academy.osintcombine.com/" target="_blank">OSINT Combine Academy</a><br>
 <a href="https://www.theosintion.com/courses/schedule/" target="_blank">OSINTION Training</a><br>
+<a href="https://plessas.net/" target="_blank">Plessas Training</a><br>
+<a href="https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/" target="_blank">SANS SEC487</a><br>
 <a href="https://www.toddington.com/osint-training/" target="_blank">Toddington OSINT Training</a><br>
-<a href="https://osint-i1.com/courses/" target="_blank">i1 OSINT Training</a><br>
+
