@@ -247,7 +247,7 @@ permalink: /resources/
 
 <h3>Sockpuppets</h3>
 <a href="https://www.secjuice.com/the-art-of-the-sock-osint-humint/" target="_blank">Art of the Sock</a><br>
-<a href="https://jakecreps.com/2018/11/02/sock-puppets/" target="_blank">Creating an Effective Suck Puppet</a><br>
+<a href="https://jakecreps.com/2018/11/02/sock-puppets/" target="_blank">Creating an Effective Sock Puppet</a><br>
 <a href="https://keyfindings.blog/2020/11/16/if-you-follow-me-ill-osint-you/" target="_blank">If You Follow Me I'll OSINT You</a><br>
 <a href="https://osintcurio.us/2018/12/27/the-puppeteer/" target="_blank">The OSINT Puppeteer</a><br>
 <a href="https://www.uk-osint.net/creatingids.html" target="_blank">UK-OSINT Tools for Sock Puppets</a><br>
