@@ -182,7 +182,7 @@ permalink: /resources/
 
 <h3>Person Searches</h3>
 <a href="https://www.192.com/" target="_blank">192.com (UK)</a><br>
-<a href="https://www.canada411.ca/" target="_blank">Canada411 (CA)/a><br>
+<a href="https://www.canada411.ca/" target="_blank">Canada411 (CA)</a><br>
 <a href="https://www.classmates.com/" target="_blank">Classmates</a><br>
 <a href="https://eumostwanted.eu/" target="_blank">Europol Most Wanted</a><br>
 <a href="https://www.findagrave.com/" target="_blank">Find a Grave</a><br>
